@@ -1,0 +1,1246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SPApplication</RootNamespace>
+    <AssemblyName>SPApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SPApplication.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.3.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.3.3.0\lib\net40\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.3.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.Framework.3.3.0\lib\net40\DocumentFormat.OpenXml.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=7.2.1.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.7.2.1\lib\net35\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=6.1.1.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.Interfaces.6.1.1\lib\net35\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=6.1.1.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.System.Drawing.6.1.1\lib\net35\EPPlus.System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.30.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssetApplication\AssetMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssetApplication\AssetMaster.designer.cs">
+      <DependentUpon>AssetMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssetApplication\AssetClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssetApplication\AssetClient.Designer.cs">
+      <DependentUpon>AssetClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\UpdateWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\UpdateWizard.Designer.cs">
+      <DependentUpon>UpdateWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESSLUtility\ESSLDataNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESSLUtility\ESSLDataNew.Designer.cs">
+      <DependentUpon>ESSLDataNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\AddComputer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\AddComputer.Designer.cs">
+      <DependentUpon>AddComputer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FinancialYearMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FinancialYearMaster.designer.cs">
+      <DependentUpon>FinancialYearMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EmployeesClass.cs" />
+    <Compile Include="NewSoftware\Reports\AttendanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewSoftware\Reports\AttendanceReport.Designer.cs">
+      <DependentUpon>AttendanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewSoftware\Reports\EmployeeAttendanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewSoftware\Reports\EmployeeAttendanceReport.Designer.cs">
+      <DependentUpon>EmployeeAttendanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewSoftware\Reports\EmployeeReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewSoftware\Reports\EmployeeReport.Designer.cs">
+      <DependentUpon>EmployeeReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Report\AttendanceSalaryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\AttendanceSalaryReport.Designer.cs">
+      <DependentUpon>AttendanceSalaryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\BirthdayList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\BirthdayList.Designer.cs">
+      <DependentUpon>BirthdayList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\CompOffDetailsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\CompOffDetailsReport.Designer.cs">
+      <DependentUpon>CompOffDetailsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DurationwiseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\DurationwiseReport.Designer.cs">
+      <DependentUpon>DurationwiseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\HolidayCompOffAsign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\HolidayCompOffAsign.Designer.cs">
+      <DependentUpon>HolidayCompOffAsign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ESSLPunchReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ESSLPunchReport.Designer.cs">
+      <DependentUpon>ESSLPunchReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\OTReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\OTReport.Designer.cs">
+      <DependentUpon>OTReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\LocationDepartmentWiseAttendanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\LocationDepartmentWiseAttendanceReport.Designer.cs">
+      <DependentUpon>LocationDepartmentWiseAttendanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\LocationDepartmentWiseLeaveReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\LocationDepartmentWiseLeaveReport.Designer.cs">
+      <DependentUpon>LocationDepartmentWiseLeaveReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\LocationDepartmentWiseUsersReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\LocationDepartmentWiseUsersReport.Designer.cs">
+      <DependentUpon>LocationDepartmentWiseUsersReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ManpowerDateWiseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ManpowerDateWiseReport.Designer.cs">
+      <DependentUpon>ManpowerDateWiseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\MemoReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\MemoReport.Designer.cs">
+      <DependentUpon>MemoReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\WorkingHoursReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\WorkingHoursReport.Designer.cs">
+      <DependentUpon>WorkingHoursReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary\Calculations\EmployeeDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary\Calculations\EmployeeDeduction.Designer.cs">
+      <DependentUpon>EmployeeDeduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary\Calculations\EmployeeEarnings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary\Calculations\EmployeeEarnings.Designer.cs">
+      <DependentUpon>EmployeeEarnings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary\Calculations\SalaryCalculations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary\Calculations\SalaryCalculations.Designer.cs">
+      <DependentUpon>SalaryCalculations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary\Calculations\SalaryCalculationsCasual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary\Calculations\SalaryCalculationsCasual.Designer.cs">
+      <DependentUpon>SalaryCalculationsCasual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary\Master\SalaryConfigurations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary\Master\SalaryConfigurations.Designer.cs">
+      <DependentUpon>SalaryConfigurations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary\Master\SalaryHeaderMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary\Master\SalaryHeaderMaster.Designer.cs">
+      <DependentUpon>SalaryHeaderMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="TicketApplication\ViewTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketApplication\ViewTicket.designer.cs">
+      <DependentUpon>ViewTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\ChangePassword.designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\UserRights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\UserRights.Designer.cs">
+      <DependentUpon>UserRights.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESSLUtility\ImportExportFacility.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESSLUtility\ImportExportFacility.Designer.cs">
+      <DependentUpon>ImportExportFacility.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ESSLUtility\ESSLData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ESSLUtility\ESSLData.Designer.cs">
+      <DependentUpon>ESSLData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\LoginWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\LoginWindow.designer.cs">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\CommanMasterAsset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\CommanMasterAsset.designer.cs">
+      <DependentUpon>CommanMasterAsset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\DocumentsMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\DocumentsMaster.Designer.cs">
+      <DependentUpon>DocumentsMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\EmployeeEditMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\EmployeeEditMaster.Designer.cs">
+      <DependentUpon>EmployeeEditMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\JobProfileMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\JobProfileMaster.Designer.cs">
+      <DependentUpon>JobProfileMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\LocationDepartmentWiseUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\LocationDepartmentWiseUsers.designer.cs">
+      <DependentUpon>LocationDepartmentWiseUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\AreaMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\AreaMaster.Designer.cs">
+      <DependentUpon>AreaMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Basic_Salary_Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Basic_Salary_Master.designer.cs">
+      <DependentUpon>Basic_Salary_Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\CategoryMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\CategoryMaster.designer.cs">
+      <DependentUpon>CategoryMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\CityVillageMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\CityVillageMaster.Designer.cs">
+      <DependentUpon>CityVillageMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\CountryMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\CountryMaster.Designer.cs">
+      <DependentUpon>CountryMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\CompanyProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\CompanyProfile.designer.cs">
+      <DependentUpon>CompanyProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\ContractorMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\ContractorMaster.designer.cs">
+      <DependentUpon>ContractorMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\DepartmentMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\DepartmentMaster.designer.cs">
+      <DependentUpon>DepartmentMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\DesignationMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\DesignationMaster.designer.cs">
+      <DependentUpon>DesignationMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\DistrictMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\DistrictMaster.Designer.cs">
+      <DependentUpon>DistrictMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Documents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Documents.Designer.cs">
+      <DependentUpon>Documents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\EmployeeMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\EmployeeMaster.designer.cs">
+      <DependentUpon>EmployeeMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\EmployeeTypeMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\EmployeeTypeMaster.designer.cs">
+      <DependentUpon>EmployeeTypeMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Health_Insurance_Policy_Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Health_Insurance_Policy_Master.designer.cs">
+      <DependentUpon>Health_Insurance_Policy_Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\HolidayMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\HolidayMaster.Designer.cs">
+      <DependentUpon>HolidayMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Leave_Management_Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Leave_Management_Master.designer.cs">
+      <DependentUpon>Leave_Management_Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Leave_Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Leave_Master.designer.cs">
+      <DependentUpon>Leave_Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\AsignShiftGroupWise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\AsignShiftGroupWise.Designer.cs">
+      <DependentUpon>AsignShiftGroupWise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\LocationWiseDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\LocationWiseDepartment.Designer.cs">
+      <DependentUpon>LocationWiseDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\CommanMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\CommanMaster.Designer.cs">
+      <DependentUpon>CommanMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\MemoTemplateMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\MemoTemplateMaster.Designer.cs">
+      <DependentUpon>MemoTemplateMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\ShiftGroupMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\ShiftGroupMaster.Designer.cs">
+      <DependentUpon>ShiftGroupMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\ShiftMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\ShiftMaster.designer.cs">
+      <DependentUpon>ShiftMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\StateMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\StateMaster.Designer.cs">
+      <DependentUpon>StateMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\TalukaMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\TalukaMaster.Designer.cs">
+      <DependentUpon>TalukaMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\AssetReport\AssetReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\AssetReport\AssetReport.Designer.cs">
+      <DependentUpon>AssetReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DailyAndMonthlyAttendanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\DailyAndMonthlyAttendanceReport.Designer.cs">
+      <DependentUpon>DailyAndMonthlyAttendanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ManpowerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ManpowerDashboard.Designer.cs">
+      <DependentUpon>ManpowerDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\HRReports\AttendanceDS.cs">
+      <DependentUpon>AttendanceDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\HRReports\AttendanceDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AttendanceDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\LeaveReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\LeaveReport.Designer.cs">
+      <DependentUpon>LeaveReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\IndvisualUserLeaveReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\IndvisualUserLeaveReport.Designer.cs">
+      <DependentUpon>IndvisualUserLeaveReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\MonthlyAttendanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\MonthlyAttendanceReport.Designer.cs">
+      <DependentUpon>MonthlyAttendanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportDataView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportDataView.Designer.cs">
+      <DependentUpon>ReportDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ViewReportW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ViewReportW.Designer.cs">
+      <DependentUpon>ViewReportW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketApplication\RaiseTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketApplication\RaiseTicket.designer.cs">
+      <DependentUpon>RaiseTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\AttendanceOTApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\AttendanceOTApproval.Designer.cs">
+      <DependentUpon>AttendanceOTApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\AttendanceWorking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\AttendanceWorking.Designer.cs">
+      <DependentUpon>AttendanceWorking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Attendance.Designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\AttendanceWorkingNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\AttendanceWorkingNew.Designer.cs">
+      <DependentUpon>AttendanceWorkingNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\CommanEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\CommanEdit.Designer.cs">
+      <DependentUpon>CommanEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\CompOffApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\CompOffApplication.Designer.cs">
+      <DependentUpon>CompOffApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\CompOffApplicationNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\CompOffApplicationNew.Designer.cs">
+      <DependentUpon>CompOffApplicationNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\CompOffApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\CompOffApproval.Designer.cs">
+      <DependentUpon>CompOffApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\EditAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\EditAttendance.Designer.cs">
+      <DependentUpon>EditAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\EmployeeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\EmployeeProfile.Designer.cs">
+      <DependentUpon>EmployeeProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\EmployeeSalarySettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\EmployeeSalarySettings.Designer.cs">
+      <DependentUpon>EmployeeSalarySettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\LeaveApplicationNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\LeaveApplicationNew.Designer.cs">
+      <DependentUpon>LeaveApplicationNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OTApprovalNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OTApprovalNew.Designer.cs">
+      <DependentUpon>OTApprovalNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OutddorPunchApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OutddorPunchApproval.Designer.cs">
+      <DependentUpon>OutddorPunchApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OutdoorPunch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OutdoorPunch.Designer.cs">
+      <DependentUpon>OutdoorPunch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OutdoorPunchNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OutdoorPunchNew.Designer.cs">
+      <DependentUpon>OutdoorPunchNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Recalculate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Recalculate.Designer.cs">
+      <DependentUpon>Recalculate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ViewCompOffApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ViewCompOffApplication.Designer.cs">
+      <DependentUpon>ViewCompOffApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\EditAttendanceRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\EditAttendanceRecord.Designer.cs">
+      <DependentUpon>EditAttendanceRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\LeaveApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\LeaveApplication.Designer.cs">
+      <DependentUpon>LeaveApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ViewLeaveApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ViewLeaveApplication.Designer.cs">
+      <DependentUpon>ViewLeaveApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ManpowerRequisition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ManpowerRequisition.Designer.cs">
+      <DependentUpon>ManpowerRequisition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\MemoAndLetters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\MemoAndLetters.Designer.cs">
+      <DependentUpon>MemoAndLetters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OTApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OTApproval.Designer.cs">
+      <DependentUpon>OTApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\OutdoorPunch_old.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\OutdoorPunch_old.Designer.cs">
+      <DependentUpon>OutdoorPunch_old.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\ShiftRotationMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\ShiftRotationMaster.Designer.cs">
+      <DependentUpon>ShiftRotationMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\CheckESSLAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\CheckESSLAttendance.Designer.cs">
+      <DependentUpon>CheckESSLAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\IndvisualUserAttendanceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\IndvisualUserAttendanceReport.Designer.cs">
+      <DependentUpon>IndvisualUserAttendanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MasterView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\MasterView.designer.cs">
+      <DependentUpon>MasterView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Percentage_Structure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Percentage_Structure.designer.cs">
+      <DependentUpon>Percentage_Structure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\LocationMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\LocationMaster.designer.cs">
+      <DependentUpon>LocationMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListForms\DataBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListForms\DataBackup.Designer.cs">
+      <DependentUpon>DataBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\SystemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\SystemInfo.Designer.cs">
+      <DependentUpon>SystemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListForms\SettingsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListForms\SettingsList.designer.cs">
+      <DependentUpon>SettingsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\TestDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\TestDB.Designer.cs">
+      <DependentUpon>TestDB.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AssetApplication\AssetClient.resx">
+      <DependentUpon>AssetClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssetApplication\AssetMaster.resx">
+      <DependentUpon>AssetMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\UpdateWizard.resx">
+      <DependentUpon>UpdateWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESSLUtility\ESSLDataNew.resx">
+      <DependentUpon>ESSLDataNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\AddComputer.resx">
+      <DependentUpon>AddComputer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FinancialYearMaster.resx">
+      <DependentUpon>FinancialYearMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewSoftware\Reports\AttendanceReport.resx">
+      <DependentUpon>AttendanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewSoftware\Reports\EmployeeAttendanceReport.resx">
+      <DependentUpon>EmployeeAttendanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewSoftware\Reports\EmployeeReport.resx">
+      <DependentUpon>EmployeeReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\AttendanceSalaryReport.resx">
+      <DependentUpon>AttendanceSalaryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\BirthdayList.resx">
+      <DependentUpon>BirthdayList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CompOffDetailsReport.resx">
+      <DependentUpon>CompOffDetailsReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\DurationwiseReport.resx">
+      <DependentUpon>DurationwiseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\HolidayCompOffAsign.resx">
+      <DependentUpon>HolidayCompOffAsign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ESSLPunchReport.resx">
+      <DependentUpon>ESSLPunchReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\HRReports\DurationWiseRDLCReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\ManpowerRDLC.rdlc" />
+    <EmbeddedResource Include="Report\OTReport.resx">
+      <DependentUpon>OTReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\LocationDepartmentWiseAttendanceReport.resx">
+      <DependentUpon>LocationDepartmentWiseAttendanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\LocationDepartmentWiseLeaveReport.resx">
+      <DependentUpon>LocationDepartmentWiseLeaveReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\LocationDepartmentWiseUsersReport.resx">
+      <DependentUpon>LocationDepartmentWiseUsersReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ManpowerDateWiseReport.resx">
+      <DependentUpon>ManpowerDateWiseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\MemoReport.resx">
+      <DependentUpon>MemoReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\WorkingHoursReport.resx">
+      <DependentUpon>WorkingHoursReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary\Calculations\EmployeeDeduction.resx">
+      <DependentUpon>EmployeeDeduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary\Calculations\EmployeeEarnings.resx">
+      <DependentUpon>EmployeeEarnings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary\Calculations\SalaryCalculations.resx">
+      <DependentUpon>SalaryCalculations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary\Calculations\SalaryCalculationsCasual.resx">
+      <DependentUpon>SalaryCalculationsCasual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary\Master\SalaryConfigurations.resx">
+      <DependentUpon>SalaryConfigurations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary\Master\SalaryHeaderMaster.resx">
+      <DependentUpon>SalaryHeaderMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketApplication\ViewTicket.resx">
+      <DependentUpon>ViewTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\UserRights.resx">
+      <DependentUpon>UserRights.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESSLUtility\ImportExportFacility.resx">
+      <DependentUpon>ImportExportFacility.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ESSLUtility\ESSLData.resx">
+      <DependentUpon>ESSLData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\LoginWindow.resx">
+      <DependentUpon>LoginWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\CommanMasterAsset.resx">
+      <DependentUpon>CommanMasterAsset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\DocumentsMaster.resx">
+      <DependentUpon>DocumentsMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\EmployeeEditMaster.resx">
+      <DependentUpon>EmployeeEditMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\JobProfileMaster.resx">
+      <DependentUpon>JobProfileMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\LocationDepartmentWiseUsers.resx">
+      <DependentUpon>LocationDepartmentWiseUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\AreaMaster.resx">
+      <DependentUpon>AreaMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Basic_Salary_Master.resx">
+      <DependentUpon>Basic_Salary_Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\CategoryMaster.resx">
+      <DependentUpon>CategoryMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\CityVillageMaster.resx">
+      <DependentUpon>CityVillageMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\CountryMaster.resx">
+      <DependentUpon>CountryMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\CompanyProfile.resx">
+      <DependentUpon>CompanyProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\ContractorMaster.resx">
+      <DependentUpon>ContractorMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\DepartmentMaster.resx">
+      <DependentUpon>DepartmentMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\DesignationMaster.resx">
+      <DependentUpon>DesignationMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\DistrictMaster.resx">
+      <DependentUpon>DistrictMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Documents.resx">
+      <DependentUpon>Documents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\EmployeeMaster.resx">
+      <DependentUpon>EmployeeMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\EmployeeTypeMaster.resx">
+      <DependentUpon>EmployeeTypeMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Health_Insurance_Policy_Master.resx">
+      <DependentUpon>Health_Insurance_Policy_Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\HolidayMaster.resx">
+      <DependentUpon>HolidayMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Leave_Management_Master.resx">
+      <DependentUpon>Leave_Management_Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Leave_Master.resx">
+      <DependentUpon>Leave_Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\AsignShiftGroupWise.resx">
+      <DependentUpon>AsignShiftGroupWise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\LocationWiseDepartment.resx">
+      <DependentUpon>LocationWiseDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\CommanMaster.resx">
+      <DependentUpon>CommanMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\MemoTemplateMaster.resx">
+      <DependentUpon>MemoTemplateMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\ShiftGroupMaster.resx">
+      <DependentUpon>ShiftGroupMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\ShiftMaster.resx">
+      <DependentUpon>ShiftMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\StateMaster.resx">
+      <DependentUpon>StateMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\TalukaMaster.resx">
+      <DependentUpon>TalukaMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\AssetReport\AssetReport.resx">
+      <DependentUpon>AssetReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\DailyAndMonthlyAttendanceReport.resx">
+      <DependentUpon>DailyAndMonthlyAttendanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\HRReports\CompOffReport.rdlc" />
+    <EmbeddedResource Include="Report\ManpowerDashboard.resx">
+      <DependentUpon>ManpowerDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ESSLReport\AttendanceSummaryReport.rdlc" />
+    <EmbeddedResource Include="Report\ESSLReport\DailyAttendance_BasicReport.rdlc" />
+    <EmbeddedResource Include="Report\ESSLReport\DailyAttendance_InOutPunchReport.rdlc" />
+    <EmbeddedResource Include="Report\ESSLReport\DailyAttendance_SummaryReport.rdlc" />
+    <EmbeddedResource Include="Report\ESSLReport\MonthlyLateEarlyMusterReport.rdlc" />
+    <EmbeddedResource Include="Report\ESSLReport\MonthlyLOPDetails.rdlc" />
+    <EmbeddedResource Include="Report\ESSLReport\MonthlyStatus_BasicReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\AttendanceLocationDepartmentWise.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\Daily.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\DepartmentSummaryReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\DepartmentWiseDesignation.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\EmployeeReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\LeaveReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\MemoReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\MonthlyAttendanceReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\MonthlyWagesReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\PunchRecordReport.rdlc" />
+    <EmbeddedResource Include="Report\HRReports\TestSubReport.rdlc" />
+    <EmbeddedResource Include="Report\LeaveReport.resx">
+      <DependentUpon>LeaveReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\IndvisualUserLeaveReport.resx">
+      <DependentUpon>IndvisualUserLeaveReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\MonthlyAttendanceReport.resx">
+      <DependentUpon>MonthlyAttendanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportDataView.resx">
+      <DependentUpon>ReportDataView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ViewReportW.resx">
+      <DependentUpon>ViewReportW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketApplication\RaiseTicket.resx">
+      <DependentUpon>RaiseTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\AttendanceOTApproval.resx">
+      <DependentUpon>AttendanceOTApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\AttendanceWorking.resx">
+      <DependentUpon>AttendanceWorking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\AttendanceWorkingNew.resx">
+      <DependentUpon>AttendanceWorkingNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\CommanEdit.resx">
+      <DependentUpon>CommanEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\CompOffApplication.resx">
+      <DependentUpon>CompOffApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\CompOffApplicationNew.resx">
+      <DependentUpon>CompOffApplicationNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\CompOffApproval.resx">
+      <DependentUpon>CompOffApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\EditAttendance.resx">
+      <DependentUpon>EditAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\EmployeeProfile.resx">
+      <DependentUpon>EmployeeProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\EmployeeSalarySettings.resx">
+      <DependentUpon>EmployeeSalarySettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\LeaveApplicationNew.resx">
+      <DependentUpon>LeaveApplicationNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OTApprovalNew.resx">
+      <DependentUpon>OTApprovalNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OutddorPunchApproval.resx">
+      <DependentUpon>OutddorPunchApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OutdoorPunch.resx">
+      <DependentUpon>OutdoorPunch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OutdoorPunchNew.resx">
+      <DependentUpon>OutdoorPunchNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Recalculate.resx">
+      <DependentUpon>Recalculate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ViewCompOffApplication.resx">
+      <DependentUpon>ViewCompOffApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\EditAttendanceRecord.resx">
+      <DependentUpon>EditAttendanceRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\LeaveApplication.resx">
+      <DependentUpon>LeaveApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ViewLeaveApplication.resx">
+      <DependentUpon>ViewLeaveApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ManpowerRequisition.resx">
+      <DependentUpon>ManpowerRequisition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\MemoAndLetters.resx">
+      <DependentUpon>MemoAndLetters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OTApproval.resx">
+      <DependentUpon>OTApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\OutdoorPunch_old.resx">
+      <DependentUpon>OutdoorPunch_old.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\ShiftRotationMaster.resx">
+      <DependentUpon>ShiftRotationMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\CheckESSLAttendance.resx">
+      <DependentUpon>CheckESSLAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\IndvisualUserAttendanceReport.resx">
+      <DependentUpon>IndvisualUserAttendanceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\MasterView.resx">
+      <DependentUpon>MasterView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Percentage_Structure.resx">
+      <DependentUpon>Percentage_Structure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\LocationMaster.resx">
+      <DependentUpon>LocationMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListForms\DataBackup.resx">
+      <DependentUpon>DataBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\SystemInfo.resx">
+      <DependentUpon>SystemInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListForms\SettingsList.resx">
+      <DependentUpon>SettingsList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListForms\ReportList.resx">
+      <DependentUpon>ReportList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ExpensesReport.resx">
+      <DependentUpon>ExpensesReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\TestDB.resx">
+      <DependentUpon>TestDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ListForms\ReportList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListForms\ReportList.designer.cs">
+      <DependentUpon>ReportList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ExpensesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ExpensesReport.Designer.cs">
+      <DependentUpon>ExpensesReport.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Report\HRReports\AttendanceDS.xsc">
+      <DependentUpon>AttendanceDS.xsd</DependentUpon>
+    </None>
+    <None Include="Report\HRReports\AttendanceDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AttendanceDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\HRReports\AttendanceDS.xss">
+      <DependentUpon>AttendanceDS.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\HappyBirthday.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayerUtility\BusinessLayerUtility.csproj">
+      <Project>{660ec6b7-a113-4d80-9f94-a9f407317e3f}</Project>
+      <Name>BusinessLayerUtility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Microsoft.TeamFoundationServer.ExtendedClient.19.225.1\build\Microsoft.TeamFoundationServer.ExtendedClient.targets" Condition="Exists('..\packages\Microsoft.TeamFoundationServer.ExtendedClient.19.225.1\build\Microsoft.TeamFoundationServer.ExtendedClient.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.TeamFoundationServer.ExtendedClient.19.225.1\build\Microsoft.TeamFoundationServer.ExtendedClient.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.TeamFoundationServer.ExtendedClient.19.225.1\build\Microsoft.TeamFoundationServer.ExtendedClient.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,2144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Exit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Expenses" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\expenses.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ExpensesHeads" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\expenses-heads.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Masters" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\masters.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reports" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\reports.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Treatments" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\treatments.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Users" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\users.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BACKGROUND_BLANKWHITE" xml:space="preserve">
+    <value>#FFFFFF</value>
+  </data>
+  <data name="BACKGROUND_COLOUR" xml:space="preserve">
+    <value>#1C2A4F</value>
+  </data>
+  <data name="BACKGROUND_NOTSUCCESS" xml:space="preserve">
+    <value>#FFCDD2</value>
+  </data>
+  <data name="BACKGROUND_SUCCESS" xml:space="preserve">
+    <value>#AAF255</value>
+  </data>
+  <data name="BTN_ADD" xml:space="preserve">
+    <value>&amp;Add</value>
+  </data>
+  <data name="BTN_BACKUPDATA" xml:space="preserve">
+    <value>Backup Data</value>
+  </data>
+  <data name="BTN_BILL" xml:space="preserve">
+    <value>Bill</value>
+  </data>
+  <data name="BTN_CLEAR" xml:space="preserve">
+    <value>&amp;Clear</value>
+  </data>
+  <data name="BTN_DELETE" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="BTN_EXIT" xml:space="preserve">
+    <value>E&amp;xit</value>
+  </data>
+  <data name="BTN_HISTORY" xml:space="preserve">
+    <value>History</value>
+  </data>
+  <data name="BTN_OPEN" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="BTN_PLUS" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="BTN_PRINT" xml:space="preserve">
+    <value>&amp;Print</value>
+  </data>
+  <data name="BTN_REPORT" xml:space="preserve">
+    <value>&amp;Report</value>
+  </data>
+  <data name="BTN_SAVE" xml:space="preserve">
+    <value>&amp;Save</value>
+  </data>
+  <data name="BTN_SEARCH" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="BTN_SYNCTOCLOUD" xml:space="preserve">
+    <value>Cloud</value>
+  </data>
+  <data name="BTN_VIEW" xml:space="preserve">
+    <value>&amp;View</value>
+  </data>
+  <data name="COL_LBL_HEADER" xml:space="preserve">
+    <value>#0000ff</value>
+  </data>
+  <data name="DATABASEPASSWORD" xml:space="preserve">
+    <value>Vijay@007</value>
+  </data>
+  <data name="DATABASEPATH" xml:space="preserve">
+    <value>D:\BitBucketProjects\Shree Khodiyar Plastic Industries\SPApplication\SPApplication\bin\Debug\Data\Database\SKPIDB.mdb</value>
+  </data>
+  <data name="DATEFORMATDDMMYYYY" xml:space="preserve">
+    <value>dd/MM/yyyy</value>
+  </data>
+  <data name="DATEFORMATMMDDYYYY" xml:space="preserve">
+    <value>MM/dd/yyyy</value>
+  </data>
+  <data name="FONT_NAME" xml:space="preserve">
+    <value>Calibri</value>
+  </data>
+  <data name="FORE_COLOUR" xml:space="preserve">
+    <value>#FFFFFF</value>
+  </data>
+  <data name="FORMATPATH" xml:space="preserve">
+    <value>Data\Format\</value>
+  </data>
+  <data name="FRM_ITEM" xml:space="preserve">
+    <value>Item</value>
+  </data>
+  <data name="GB_CHEQUE_DETAILS" xml:space="preserve">
+    <value>Cheque Details</value>
+  </data>
+  <data name="GR_ITEM_DETAILS" xml:space="preserve">
+    <value>Item Details</value>
+  </data>
+  <data name="GR_PRICING" xml:space="preserve">
+    <value>Price and Taxes</value>
+  </data>
+  <data name="GR_TAXES" xml:space="preserve">
+    <value>Taxes</value>
+  </data>
+  <data name="LBL_ADDRESS" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="LBL_AMOUNT" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="LBL_BALANCE_AMOUNT" xml:space="preserve">
+    <value>Balance Amount</value>
+  </data>
+  <data name="LBL_BANK_NAME" xml:space="preserve">
+    <value>Bank Name</value>
+  </data>
+  <data name="LBL_BATCH_NUMBER" xml:space="preserve">
+    <value>Batch Number</value>
+  </data>
+  <data name="LBL_BRANCH_NAME" xml:space="preserve">
+    <value>Branch Name</value>
+  </data>
+  <data name="LBL_BUTTON_SUPPLIER" xml:space="preserve">
+    <value>Supplier</value>
+  </data>
+  <data name="LBL_CATEGORY" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="LBL_CGST_PER" xml:space="preserve">
+    <value>CGST In %</value>
+  </data>
+  <data name="LBL_CHEQUE_NO" xml:space="preserve">
+    <value>Cheque No.</value>
+  </data>
+  <data name="LBL_COMPANY_NAME" xml:space="preserve">
+    <value>Company Name</value>
+  </data>
+  <data name="LBL_CONTACTDETAILS" xml:space="preserve">
+    <value>Mobile-9822837797</value>
+  </data>
+  <data name="LBL_CONTAIN" xml:space="preserve">
+    <value>Contain</value>
+  </data>
+  <data name="LBL_COPYRIGHTS" xml:space="preserve">
+    <value>Developed by 2dk Apps, Pune</value>
+  </data>
+  <data name="LBL_COST" xml:space="preserve">
+    <value>Cost</value>
+  </data>
+  <data name="LBL_CUSTOMER_NAME" xml:space="preserve">
+    <value>Customer Name</value>
+  </data>
+  <data name="LBL_DASHBOARD_SALE" xml:space="preserve">
+    <value>Sale</value>
+  </data>
+  <data name="LBL_DATE" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="LBL_HEADER_ADDUSER" xml:space="preserve">
+    <value>Users</value>
+  </data>
+  <data name="LBL_HEADER_AMOUNTCOLLECTION" xml:space="preserve">
+    <value>Amount Collection</value>
+  </data>
+  <data name="LBL_HEADER_AMOUNTCOLLECTIONREPORT" xml:space="preserve">
+    <value>Amount Collection Report</value>
+  </data>
+  <data name="LBL_HEADER_APPONTMENTS" xml:space="preserve">
+    <value>Appointments</value>
+  </data>
+  <data name="LBL_HEADER_DATABACKUP" xml:space="preserve">
+    <value>Data Backup</value>
+  </data>
+  <data name="LBL_HEADER_BANKACCOUNT" xml:space="preserve">
+    <value>Bank Account</value>
+  </data>
+  <data name="LBL_HEADER_BANKDEPOSIT" xml:space="preserve">
+    <value>Bank Deposit</value>
+  </data>
+  <data name="LBL_HEADER_BANKDEPOSITANDWITHDRAW" xml:space="preserve">
+    <value>Bank Deposit and Withdraw Report</value>
+  </data>
+  <data name="LBL_HEADER_BANKWITHDRAW" xml:space="preserve">
+    <value>Bank Withdraw</value>
+  </data>
+  <data name="LBL_HEADER_BIRTHDAYREPORT" xml:space="preserve">
+    <value>Birthday Report</value>
+  </data>
+  <data name="LBL_HEADER_BOOKINGCHECKINCHECKOUTREPORT" xml:space="preserve">
+    <value>Booking Checkin and Checkout Report</value>
+  </data>
+  <data name="LBL_HEADER_CAPLABEL" xml:space="preserve">
+    <value>Cap Label</value>
+  </data>
+  <data name="LBL_HEADER_CATEGARY" xml:space="preserve">
+    <value>Categary</value>
+  </data>
+  <data name="LBL_HEADER_CHANGEPASSWORD" xml:space="preserve">
+    <value>Change Password</value>
+  </data>
+  <data name="LBL_HEADER_CHECKIN" xml:space="preserve">
+    <value>Check In and Check Out</value>
+  </data>
+  <data name="LBL_HEADER_CITY" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="LBL_HEADER_COLLECTIONTYPEMASTER" xml:space="preserve">
+    <value>Collection Type Master</value>
+  </data>
+  <data name="LBL_HEADER_CRNOTE" xml:space="preserve">
+    <value>Credit Return Note</value>
+  </data>
+  <data name="LBL_HEADER_CUSTOMER" xml:space="preserve">
+    <value>Customer</value>
+  </data>
+  <data name="LBL_HEADER_CUSTOMERPAYMENTDEPOSITREPORT" xml:space="preserve">
+    <value>Customer Payment Deposit Report</value>
+  </data>
+  <data name="LBL_HEADER_CUSTOMERREPORT" xml:space="preserve">
+    <value>Customer Report</value>
+  </data>
+  <data name="LBL_HEADER_DAILYBOOKENTRY" xml:space="preserve">
+    <value>Daily Book Entry</value>
+  </data>
+  <data name="LBL_HEADER_DEPOSITHEAD" xml:space="preserve">
+    <value>Deposit Head</value>
+  </data>
+  <data name="LBL_HEADER_EMAILCREDENTIALS" xml:space="preserve">
+    <value>Email Credentials</value>
+  </data>
+  <data name="LBL_HEADER_EMPLOYEE" xml:space="preserve">
+    <value>Employee</value>
+  </data>
+  <data name="LBL_HEADER_EMPLOYEE_ATTEMDAMCE" xml:space="preserve">
+    <value>Employee Attendance</value>
+  </data>
+  <data name="LBL_HEADER_EVENTBOOKING" xml:space="preserve">
+    <value>Events Booking</value>
+  </data>
+  <data name="LBL_HEADER_EVENTBOOKINGREPORT" xml:space="preserve">
+    <value>Event Booking Report</value>
+  </data>
+  <data name="LBL_HEADER_EVENTMASTER" xml:space="preserve">
+    <value>Event Master</value>
+  </data>
+  <data name="LBL_HEADER_EVENT_MANAGEMENT" xml:space="preserve">
+    <value>Event Booking</value>
+  </data>
+  <data name="LBL_HEADER_EXPENSES" xml:space="preserve">
+    <value>Expenses Head</value>
+  </data>
+  <data name="LBL_HEADER_EXPENSESHEAD" xml:space="preserve">
+    <value>Expenses Head</value>
+  </data>
+  <data name="LBL_HEADER_EXPENSESREPORT" xml:space="preserve">
+    <value>Expenses Report</value>
+  </data>
+  <data name="LBL_HEADER_FEECOLLECTIONREPORT" xml:space="preserve">
+    <value>Fee Collection Report</value>
+  </data>
+  <data name="LBL_HEADER_FIRMINFORMATION" xml:space="preserve">
+    <value>Firm Information</value>
+  </data>
+  <data name="LBL_HEADER_GSTREPORT" xml:space="preserve">
+    <value>GST Report</value>
+  </data>
+  <data name="LBL_HEADER_HISTORY" xml:space="preserve">
+    <value>History</value>
+  </data>
+  <data name="LBL_HEADER_HOTELTABLE" xml:space="preserve">
+    <value>Hotel Table Master</value>
+  </data>
+  <data name="LBL_HEADER_INWARDMATERIAL" xml:space="preserve">
+    <value>Inward Material</value>
+  </data>
+  <data name="LBL_HEADER_ITEM" xml:space="preserve">
+    <value>Product</value>
+  </data>
+  <data name="LBL_HEADER_ITEMQUANTITYREPORT" xml:space="preserve">
+    <value>Item Quantity Report</value>
+  </data>
+  <data name="LBL_HEADER_LOGINWINDOW" xml:space="preserve">
+    <value>Login Window</value>
+  </data>
+  <data name="LBL_HEADER_MANUFRACTURER" xml:space="preserve">
+    <value>Manufracturer</value>
+  </data>
+  <data name="LBL_HEADER_MEDICINE" xml:space="preserve">
+    <value>Medicine</value>
+  </data>
+  <data name="LBL_HEADER_MOULDMASTER" xml:space="preserve">
+    <value>Mould Master</value>
+  </data>
+  <data name="LBL_HEADER_OPENINGSTOCKENTRY" xml:space="preserve">
+    <value>Opening Stock Entry</value>
+  </data>
+  <data name="LBL_HEADER_OUTWARDMATERIAL" xml:space="preserve">
+    <value>Outward Material</value>
+  </data>
+  <data name="LBL_HEADER_PACKAGEMASTER" xml:space="preserve">
+    <value>Package Master</value>
+  </data>
+  <data name="LBL_HEADER_PAYMENT" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="LBL_HEADER_PREFORM" xml:space="preserve">
+    <value>Preform Master</value>
+  </data>
+  <data name="LBL_HEADER_PRODUCTIONLABEL" xml:space="preserve">
+    <value>Production Label</value>
+  </data>
+  <data name="LBL_HEADER_PROFITANDREPORT" xml:space="preserve">
+    <value>Profit and Loss</value>
+  </data>
+  <data name="LBL_HEADER_PURCHASE" xml:space="preserve">
+    <value>Puchase</value>
+  </data>
+  <data name="LBL_HEADER_PURCHASEREPORT" xml:space="preserve">
+    <value>Purchase Report</value>
+  </data>
+  <data name="LBL_HEADER_QUALITYANALYSIS" xml:space="preserve">
+    <value>Quality Analysis</value>
+  </data>
+  <data name="LBL_HEADER_QUALITY_CONTROL_REGISTER_ENTRY" xml:space="preserve">
+    <value>Quality Control Register Entry</value>
+  </data>
+  <data name="LBL_HEADER_RECEIPT" xml:space="preserve">
+    <value>Receipt</value>
+  </data>
+  <data name="LBL_HEADER_REPORTLIST" xml:space="preserve">
+    <value>Report List</value>
+  </data>
+  <data name="LBL_HEADER_RESTAURANTBILL" xml:space="preserve">
+    <value>Restaurant Bill</value>
+  </data>
+  <data name="LBL_HEADER_ROOM" xml:space="preserve">
+    <value>Room</value>
+  </data>
+  <data name="LBL_HEADER_SETTINGSLIST" xml:space="preserve">
+    <value>Settings List</value>
+  </data>
+  <data name="LBL_HEADER_STUDENTATTENDANCEREPORT" xml:space="preserve">
+    <value>Student Attendance Report</value>
+  </data>
+  <data name="LBL_HEADER_SUPPLIER" xml:space="preserve">
+    <value>Supplier</value>
+  </data>
+  <data name="LBL_HEADER_SUPPLIERDETAILS" xml:space="preserve">
+    <value>Supplier Payment Deposit Report</value>
+  </data>
+  <data name="LBL_HEADER_SUPPLIERREPORT" xml:space="preserve">
+    <value>Supplier Report</value>
+  </data>
+  <data name="LBL_HEADER_TREATMENT" xml:space="preserve">
+    <value>Treatment</value>
+  </data>
+  <data name="LBL_HEADER_UOM" xml:space="preserve">
+    <value>Unit of Messurement</value>
+  </data>
+  <data name="LBL_HEADER_USERMANAGEMENT" xml:space="preserve">
+    <value>User Management</value>
+  </data>
+  <data name="LBL_HELP" xml:space="preserve">
+    <value>&amp;Help</value>
+  </data>
+  <data name="LBL_HSN_CODE" xml:space="preserve">
+    <value>HSN Code (GST)</value>
+  </data>
+  <data name="LBL_IGST_PER" xml:space="preserve">
+    <value>IGST In %</value>
+  </data>
+  <data name="LBL_ITEM_NAME" xml:space="preserve">
+    <value>Item Name</value>
+  </data>
+  <data name="LBL_MRP" xml:space="preserve">
+    <value>MRP</value>
+  </data>
+  <data name="LBL_PAYMENT_MODE" xml:space="preserve">
+    <value>Payment Mode</value>
+  </data>
+  <data name="LBL_PRICE" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="LBL_PROFIT_MARGIN_AMOUNT" xml:space="preserve">
+    <value>Profit Margin Amount</value>
+  </data>
+  <data name="LBL_PROFIT_MARGIN_PER" xml:space="preserve">
+    <value>Profit Margin In %</value>
+  </data>
+  <data name="LBL_REPORT_EMPLOYEE_MONTHWISE" xml:space="preserve">
+    <value>Employee Attendance Monthwise Report</value>
+  </data>
+  <data name="LBL_REPORT_MATERIALOUTWARDREPORT" xml:space="preserve">
+    <value>Material Outward Report</value>
+  </data>
+  <data name="LBL_SEARCH_ITEM" xml:space="preserve">
+    <value>Search Item</value>
+  </data>
+  <data name="LBL_SGST_PER" xml:space="preserve">
+    <value>SGST In %</value>
+  </data>
+  <data name="LBL_SUPPLIER_NAME" xml:space="preserve">
+    <value>Supplier Name</value>
+  </data>
+  <data name="LBL_TEST" xml:space="preserve">
+    <value>Item Name</value>
+  </data>
+  <data name="LBL_TOTAL_AMOUNT" xml:space="preserve">
+    <value>Total Amount</value>
+  </data>
+  <data name="LBL_TOTAL_PENDING" xml:space="preserve">
+    <value>Total Pending</value>
+  </data>
+  <data name="LBL_UOM" xml:space="preserve">
+    <value>Unit of Messurement</value>
+  </data>
+  <data name="LBL_VERSION" xml:space="preserve">
+    <value>Version 8.0.12</value>
+  </data>
+  <data name="LIST_REPORT_CHECKAVAILABILITY" xml:space="preserve">
+    <value>Check Availability</value>
+  </data>
+  <data name="LIST_REPORT_CLIENTPAYMENTDUEDATEREPORT" xml:space="preserve">
+    <value>Client's Payment Due Date Report</value>
+  </data>
+  <data name="LIST_REPORT_ITEMQUANTITYREPORT" xml:space="preserve">
+    <value>Item Quantity Report</value>
+  </data>
+  <data name="LIST_REPORT_ITEMQUANTITYREPORT1" xml:space="preserve">
+    <value>Item Quantity Report</value>
+  </data>
+  <data name="LIST_REPORT_SALESREPORT" xml:space="preserve">
+    <value>Sales Report</value>
+  </data>
+  <data name="WEBSITE" xml:space="preserve">
+    <value>http://tandtinfra.com/</value>
+  </data>
+  <data name="WhatsAppImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\WWW.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WHATSAPPLINK" xml:space="preserve">
+    <value>https://api.whatsapp.com/send?phone=+919822837797</value>
+  </data>
+  <data name="ClientLogo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ClientLogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LBL_HEADER_APPROVALLEVELMASTER" xml:space="preserve">
+    <value>Approval Level Master</value>
+  </data>
+  <data name="LBL_HEADER_BASICSALARYMASTER" xml:space="preserve">
+    <value>Basic Salary Master</value>
+  </data>
+  <data name="LBL_HEADER_CONTRACTORMASTER" xml:space="preserve">
+    <value>Contractor Master</value>
+  </data>
+  <data name="LBL_HEADER_DEPARTMENTMASTER" xml:space="preserve">
+    <value>Department Master</value>
+  </data>
+  <data name="LBL_HEADER_DEPARTMENTMASTER1" xml:space="preserve">
+    <value>Department Master</value>
+  </data>
+  <data name="LBL_HEADER_DESIGNATIONMASTER" xml:space="preserve">
+    <value>Designation Master</value>
+  </data>
+  <data name="LBL_HEADER_EMPLOYEETYPEMASTER" xml:space="preserve">
+    <value>Employee Type Master</value>
+  </data>
+  <data name="LBL_HEADER_HEALTHINSURANCEPOLICYMASTER" xml:space="preserve">
+    <value>Health Insurance Policy Master</value>
+  </data>
+  <data name="LBL_HEADER_LEAVEMASTER" xml:space="preserve">
+    <value>Leave Master</value>
+  </data>
+  <data name="LBL_HEADER_LOCATION" xml:space="preserve">
+    <value>Location Master</value>
+  </data>
+  <data name="LBL_HEADER_EMPLOYEEMASTER" xml:space="preserve">
+    <value>Employee Master</value>
+  </data>
+  <data name="LBL_HEADER_LEAVEAPPROVALMASTER" xml:space="preserve">
+    <value>Leve Approval Master</value>
+  </data>
+  <data name="LBL_HEADER_LEAVEMANAGEMENTMASTER" xml:space="preserve">
+    <value>Leave Management Master</value>
+  </data>
+  <data name="LBL_HEADER_PERCENTAGESTUCTUREMASTER" xml:space="preserve">
+    <value>Percentage Structure Master</value>
+  </data>
+  <data name="MalasICO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MalasLogo.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ContractorMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ContractorMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ApprovalLevelMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ApprovalLevelMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BasicSalaryMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\BasicSalaryMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CompanyProfile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CompanyProfile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DepartmentMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\DepartmentMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DEPARTMENT_MASTER" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\DEPARTMENT_MASTER.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DesignationMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\DesignationMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EmployeeMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\EmployeeMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EmployeeTypeMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\EmployeeTypeMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LBL_HEADER_COMPANYPROFILE" xml:space="preserve">
+    <value>Company Profile</value>
+  </data>
+  <data name="LeaveApproval" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\LeaveApproval.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeaveManagementMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\LeaveManagementMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeaveMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\LeaveMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PercentageSrtucture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\PercentageSrtucture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UnitMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UnitMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Transaction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Transaction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LBL_HEADER_ESSLDATA" xml:space="preserve">
+    <value>ESSL Data</value>
+  </data>
+  <data name="ESSLData" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Data.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BTN_ESSL" xml:space="preserve">
+    <value>ESSL Data</value>
+  </data>
+  <data name="LBL_MONTHLY_ATTENDANCE_REPORT" xml:space="preserve">
+    <value>Monthly Attendance Report</value>
+  </data>
+  <data name="LBL_HEADER_CATEGORYMASTER" xml:space="preserve">
+    <value>Category Master</value>
+  </data>
+  <data name="LBL_HEADER_SHIFTMASTER" xml:space="preserve">
+    <value>Shift Master</value>
+  </data>
+  <data name="LBL_DAILY_ATTENDANCEREPORT" xml:space="preserve">
+    <value>Daily Attendance Report</value>
+  </data>
+  <data name="LBL_HEADER_CONTRYMASTER" xml:space="preserve">
+    <value>Contry Master</value>
+  </data>
+  <data name="LBL_HEADER_STATEMASTER" xml:space="preserve">
+    <value>State Master</value>
+  </data>
+  <data name="LBL_HEADER_DISTRICTMASTER" xml:space="preserve">
+    <value>District Master</value>
+  </data>
+  <data name="LBL_HEADER_AREAMASTER" xml:space="preserve">
+    <value>Area Master</value>
+  </data>
+  <data name="LBL_HEADER_CITYVILLAGEMASTER" xml:space="preserve">
+    <value>City/Village Master</value>
+  </data>
+  <data name="LBL_HEADER_TALUKAMASTER" xml:space="preserve">
+    <value>Taluka Master</value>
+  </data>
+  <data name="LBL_HEADER_DOCUMENTS" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="AreaMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\AreaMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CategoryMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CategoryMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CityMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CityMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Contry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Contry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DistrictMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\DistrictMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShiftMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ShiftMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StateMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\StateMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TalukaMaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TalukaMaster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LBL_HEADER_LEAVEAPPLICATION" xml:space="preserve">
+    <value>Leave Application</value>
+  </data>
+  <data name="STATUS_CANCEL" xml:space="preserve">
+    <value>CANCEL</value>
+  </data>
+  <data name="STATUS_DEPARTMENT_HEAD_APPROVED" xml:space="preserve">
+    <value>DEPARTMENT HEAD APPROVED</value>
+  </data>
+  <data name="STATUS_FINAL_APPROVED" xml:space="preserve">
+    <value>FINAL APPROVED</value>
+  </data>
+  <data name="STATUS_HR_APPROVED" xml:space="preserve">
+    <value>HR APPROVED</value>
+  </data>
+  <data name="USER_TYPE_ADMIN" xml:space="preserve">
+    <value>ADMIN</value>
+  </data>
+  <data name="USER_TYPE_INCHARGE" xml:space="preserve">
+    <value>INCHARGE</value>
+  </data>
+  <data name="USER_TYPE_OFFICER" xml:space="preserve">
+    <value>OFFICER</value>
+  </data>
+  <data name="USER_TYPE_PLANTHEAD" xml:space="preserve">
+    <value>PLANT HEAD</value>
+  </data>
+  <data name="USER_TYPE_USER" xml:space="preserve">
+    <value>USER</value>
+  </data>
+  <data name="LBL_HEADER_LEAVELIST" xml:space="preserve">
+    <value>Leave Application List</value>
+  </data>
+  <data name="DATEFORMATYYYYYMMDD" xml:space="preserve">
+    <value>yyyy-MM-dd</value>
+  </data>
+  <data name="BTN_APPROVE" xml:space="preserve">
+    <value>Approve</value>
+  </data>
+  <data name="AttendanceRecord_Column" xml:space="preserve">
+    <value>AMD.AttendanceRecordMasterId, 
+AMD.AttendanceHistoryId,
+AMD.EsslAttendanceLogsId,
+AMD.EmployeeId, 
+AMD.ShiftId,
+AMD.ShiftGroupId,
+AMD.InTime,
+AMD.OutTime,
+AMD.Duration, 
+AMD.OverTime, 
+AMD.TotalDuration, 
+AMD.Status, 
+AMD.LateBy,
+AMD.EarlyBy,
+AMD.MissedInPunch,
+AMD.MissedOutPunch,
+AMD.ChangeDepartmentFlag,
+AMD.ChangeDepartmentId,
+AMD.ChangeLocationtId,
+AMD.LeaveTypeId,
+AMD.LeaveDuration,
+AMD.WeeklyOff,
+AMD.Holiday,
+AMD.LeaveRemarks,
+AMD.PunchRecords,
+AMD.LossOfHours,
+AMD.Present,
+AMD.Absent,
+AMD.UserId,
+ARM.EntryDate, 
+ARM.AttendanceDate, 
+ARM.LocationId,
+ARM.DepartmentId,
+S.ShiftSName,
+E.EmployeeName,
+E.EmployeeCode,
+L.LocationName,
+D.Department,
+AMD.Remarks,
+LM.LocationName as 'TransferLocation',
+DM.Department as 'TransferDepartment'</value>
+  </data>
+  <data name="AttendanceRecord_Table" xml:space="preserve">
+    <value> AttendanceRecord AMD inner join 
+	attendancerecordmaster ARM on AMD.AttendanceRecordMasterId=ARM.AttendanceRecordMasterId inner join
+	Employees E on E.EmployeeId=AMD.EmployeeId inner join
+	shifts S on S.ShiftId=AMD.ShiftId inner join 
+	LocationMaster L on L.LocationId=ARM.LocationId inner join 
+	DepartmentMaster D on D.DepartmentId=ARM.DepartmentId LEFT JOIN  locationmaster LM on AMD.ChangeLocationtId=LM.LocationId 
+LEFT JOIN departmentmaster DM on AMD.ChangeDepartmentId=DM.DepartmentId</value>
+  </data>
+  <data name="AttendanceRecord_Where" xml:space="preserve">
+    <value> AMD.CancelTag=0 and S.CancelTag=0 and E.CancelTag=0 and D.CancelTag=0 and L.CancelTag=0 </value>
+  </data>
+  <data name="LBL_HEADER_ATTENDANCEAPPROVAL" xml:space="preserve">
+    <value>Attendance Working</value>
+  </data>
+  <data name="LBL_HEADER_ATTENDANCEAPPROVALMASTER" xml:space="preserve">
+    <value>Get Date Wise Attendance</value>
+  </data>
+  <data name="ClientLogo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attendancemonthlydata_column" xml:space="preserve">
+    <value> AMD.Id,
+AMD.AYear,
+AMD.AMonth,
+AMD.LocationId,
+L.LocationName,
+AMD.DepartmentId,
+D.Department,
+AMD.EmployeeId,
+E.EmployeeCode,
+E.EmployeeName,
+AMD.AtId1,
+AMD.ShiftId1,
+AMD.In1,
+AMD.Out1,
+AMD.Duration1,
+AMD.Status1,
+AMD.OT1,
+AMD.LT1,
+AMD.AtId2,
+AMD.ShiftId2,
+AMD.In2,
+AMD.Out2,
+AMD.Duration2,
+AMD.Status2,
+AMD.OT2,
+AMD.LT2,
+AMD.AtId3,
+AMD.ShiftId3,
+AMD.In3,
+AMD.Out3,
+AMD.Duration3,
+AMD.Status3,
+AMD.OT3,
+AMD.LT3,
+AMD.AtId4,
+AMD.ShiftId4,
+AMD.In4,
+AMD.Out4,
+AMD.Duration4,
+AMD.Status4,
+AMD.OT4,
+AMD.LT4,
+AMD.AtId5,
+AMD.ShiftId5,
+AMD.In5,
+AMD.Out5,
+AMD.Duration5,
+AMD.Status5,
+AMD.OT5,
+AMD.LT5,
+AMD.AtId6,
+AMD.ShiftId6,
+AMD.In6,
+AMD.Out6,
+AMD.Duration6,
+AMD.Status6,
+AMD.OT6,
+AMD.LT6,
+AMD.AtId7,
+AMD.ShiftId7,
+AMD.In7,
+AMD.Out7,
+AMD.Duration7,
+AMD.Status7,
+AMD.OT7,
+AMD.LT7,
+AMD.AtId8,
+AMD.ShiftId8,
+AMD.Status8,
+AMD.In8,
+AMD.Out8,
+AMD.Duration8,
+AMD.OT8,
+AMD.LT8,
+AMD.AtId9,
+AMD.ShiftId9,
+AMD.In9,
+AMD.Out9,
+AMD.Duration9,
+AMD.Status9,
+AMD.OT9,
+AMD.LT9,
+AMD.AtId10,
+AMD.ShiftId10,
+AMD.In10,
+AMD.Out10,
+AMD.Duration10,
+AMD.Status10,
+AMD.OT10,
+AMD.LT10,
+AMD.AtId11,
+AMD.ShiftId11,
+AMD.In11,
+AMD.Out11,
+AMD.Duration11,
+AMD.Status11,
+AMD.OT11,
+AMD.LT11,
+AMD.AtId12,
+AMD.ShiftId12,
+AMD.In12,
+AMD.Out12,
+AMD.Duration12,
+AMD.Status12,
+AMD.OT12,
+AMD.LT12,
+AMD.AtId13,
+AMD.ShiftId13,
+AMD.In13,
+AMD.Out13,
+AMD.Duration13,
+AMD.Status13,
+AMD.OT13,
+AMD.LT13,
+AMD.AtId14,
+AMD.ShiftId14,
+AMD.In14,
+AMD.Out14,
+AMD.Duration14,
+AMD.Status14,
+AMD.OT14,
+AMD.LT14,
+AMD.AtId15,
+AMD.ShiftId15,
+AMD.In15,
+AMD.Out15,
+AMD.Duration15,
+AMD.Status15,
+AMD.OT15,
+AMD.LT15,
+AMD.ShiftId16,
+AMD.AtId16,
+AMD.In16,
+AMD.Out16,
+AMD.Duration16,
+AMD.Status16,
+AMD.OT16,
+AMD.LT16,
+AMD.AtId17,
+AMD.ShiftId17,
+AMD.In17,
+AMD.Out17,
+AMD.Duration17,
+AMD.Status17,
+AMD.OT17,
+AMD.LT17,
+AMD.AtId18,
+AMD.ShiftId18,
+AMD.In18,
+AMD.Out18,
+AMD.Duration18,
+AMD.Status18,
+AMD.OT18,
+AMD.LT18,
+AMD.AtId19,
+AMD.ShiftId19,
+AMD.In19,
+AMD.Out19,
+AMD.Duration19,
+AMD.Status19,
+AMD.OT19,
+AMD.LT19,
+AMD.AtId20,
+AMD.ShiftId20,
+AMD.In20,
+AMD.Out20,
+AMD.Duration20,
+AMD.Status20,
+AMD.OT20,
+AMD.LT20,
+AMD.AtId21,
+AMD.ShiftId21,
+AMD.In21,
+AMD.Out21,
+AMD.Duration21,
+AMD.Status21,
+AMD.OT21,
+AMD.LT21,
+AMD.AtId22,
+AMD.ShiftId22,
+AMD.In22,
+AMD.Out22,
+AMD.Duration22,
+AMD.Status22,
+AMD.OT22,
+AMD.LT22,
+AMD.AtId23,
+AMD.ShiftId23,
+AMD.In23,
+AMD.Out23,
+AMD.Duration23,
+AMD.OT23,
+AMD.Status23,
+AMD.LT23,
+AMD.AtId24,
+AMD.ShiftId24,
+AMD.In24,
+AMD.Out24,
+AMD.Duration24,
+AMD.Status24,
+AMD.OT24,
+AMD.LT24,
+AMD.AtId25,
+AMD.ShiftId25,
+AMD.In25,
+AMD.Out25,
+AMD.Duration25,
+AMD.Status25,
+AMD.OT25,
+AMD.LT25,
+AMD.AtId26,
+AMD.ShiftId26,
+AMD.In26,
+AMD.Out26,
+AMD.Duration26,
+AMD.Status26,
+AMD.OT26,
+AMD.LT26,
+AMD.AtId27,
+AMD.ShiftId27,
+AMD.In27,
+AMD.Out27,
+AMD.Duration27,
+AMD.Status27,
+AMD.OT27,
+AMD.LT27,
+AMD.AtId28,
+AMD.ShiftId28,
+AMD.In28,
+AMD.Out28,
+AMD.Duration28,
+AMD.Status28,
+AMD.OT28,
+AMD.LT28,
+AMD.AtId29,
+AMD.ShiftId29,
+AMD.In29,
+AMD.Out29,
+AMD.Duration29,
+AMD.Status29,
+AMD.OT29,
+AMD.LT29,
+AMD.AtId30,
+AMD.ShiftId30,
+AMD.In30,
+AMD.Out30,
+AMD.Duration30,
+AMD.Status30,
+AMD.OT30,
+AMD.LT30,
+AMD.AtId31,
+AMD.ShiftId31,
+AMD.In31,
+AMD.Out31,
+AMD.Duration31,
+AMD.Status31,
+AMD.OT31,
+AMD.LT31,
+AMD.TotalPresent,
+AMD.TotalAbsent,
+AMD.TotalOT,
+AMD.TotalHours,
+AMD.TotalWeeklyOff,
+AMD.TotalHoliday,
+AMD.TotalLateBy,
+AMD.TotalEarlyBy</value>
+  </data>
+  <data name="attendancemonthlydata_Tables" xml:space="preserve">
+    <value> attendancemonthlydata AMD inner join 
+employees E on E.EmployeeId=AMD.EmployeeId inner join 
+locationmaster L on L.LocationId=AMD.LocationId inner join
+departmentmaster D on D.DepartmentId=AMD.DepartmentId </value>
+  </data>
+  <data name="REPORT_Daily_Attendance_Report_Basic_Report" xml:space="preserve">
+    <value>Daily Attendance Report (Basic Report)</value>
+  </data>
+  <data name="REPORT_Daily_Attendance_Present_Basic_Reports" xml:space="preserve">
+    <value>Daily Attendance Present (Basic Reports)</value>
+  </data>
+  <data name="REPORT_NAME_EARLY_PUNCH_REPORT" xml:space="preserve">
+    <value>Early Punch Report</value>
+  </data>
+  <data name="REPORT_NAME_LATE_PUNCH_REPORT" xml:space="preserve">
+    <value>Late Punch Report</value>
+  </data>
+  <data name="REPORT_Daily_Attendance_Absent_Basic_Report" xml:space="preserve">
+    <value>Daily Attendance Absent (Basic Report)</value>
+  </data>
+  <data name="REPORT_NAME_WAGES_REPORT" xml:space="preserve">
+    <value>Wages Report</value>
+  </data>
+  <data name="REPORT_NAME_MISSED_PUNCHED_REPORT" xml:space="preserve">
+    <value>Missed Punched Report</value>
+  </data>
+  <data name="COMPANYNAME" xml:space="preserve">
+    <value>T and T Infra Limited</value>
+  </data>
+  <data name="REPORT_EMPLOYEE_REPORT" xml:space="preserve">
+    <value>Employee Report</value>
+  </data>
+  <data name="REPORT_NAME_LOCATION_DEPARTMENT" xml:space="preserve">
+    <value>Attendance Report Location and Department Wise</value>
+  </data>
+  <data name="Employees_Column" xml:space="preserve">
+    <value>E.EmployeeId, 
+E.EmployeeCode,
+E.EmpInital,
+E.EmployeeName, 
+E.Gender, 
+E.DOB, 
+E.Age, 
+E.MaritalStatus,  
+E.MarriageDate,   
+E.PersonalEmailID,   
+E.MobileNo, 
+E.OfficialEmailID,
+E.BloodGroup,
+E.AadharCardNumber,
+E.PanCardNumber,
+E.FatherName, 
+E.MotherName, 
+E.DrivingLicenseNumber, 
+E.PersonalIdentificationMark, 
+E.PhysicalDisability, 
+E.DescriptionOfPhysicalDisability,
+E.DOJ, 
+E.TotalYearsService, 
+E.ContractorId, 
+CM.ContractorName,
+E.EmployementTypeId, 
+ETM.EmployementType,
+E.DepartmentId, 
+DM.Department,
+E.DesignationId, 
+DESM.Designation,
+E.JobProfile, 
+E.CategoryId, 
+CT.CategoryFName,
+E.LocationId,
+LM.LocationName,
+E.ReportingTo,
+E.Nationality,
+E.Address,
+E.AreaId, 
+E.SameAsPA,
+E.Address1,
+E.AreaId1,
+E.NomineeName,
+E.NomineeRelationship,
+E.NomineeAddress, 
+E.NomineeDOB,
+E.NomineeContactNo,
+E.NomineeFor,
+E.NomineeBankName,
+E.NomineeAccountNo,
+E.NomineeIFSCCode,
+E.NomineeMICRCode,
+E.EmergancyContactName,
+E.EmergancyContactMobileNumber,
+E.EmergancyContactWorkPhone, 
+E.EmergancyContactRelationship,
+E.EmergancyContactHomePhone,
+E.SkillLanguage, 
+E.SkillFluency, 
+E.SkillAbilityWrite,
+E.SkillAbilityRead, 
+E.SkillAbilitySpeak, 
+E.SkillAbilityUnderstand,
+E.SkillType,
+E.CostCenter,
+E.SalaryMonthlyBasic,
+E.SalaryMonthlyHRA,
+E.SalaryMonthlyEducationAllowance, 
+E.SalaryMonthlyConveyanceAllowance,
+E.SalaryMonthlyOtherAllowance, 
+E.SalaryMonthlyGrossSalary, 
+E.SalaryMonthlyTaxDeducted,
+E.SalaryMonthlyProvidentFund,
+E.SalaryMonthlyNetSalary,
+E.SalaryAnualBasic,
+E.SalaryAnualHRA,
+E.SalaryAnualEducationAllowance,
+E.SalaryAnualConveyanceAllowance,
+E.SalaryAnualOtherAllowance, 
+E.SalaryAnualGrossSalary, 
+E.SalaryAnualTaxDeducted,
+E.SalaryAnualProvidentFund,
+E.SalaryAnualNetSalary,
+E.SalaryPaymentMode,
+E.SalaryBank, 
+E.SalaryAccountNo,
+E.SalaryBranchName, 
+E.SalaryMICRNo,
+E.SalaryIFSCCode, 
+E.SalaryPaymentMode1,
+E.SalaryBank1, 
+E.SalaryAccountNo1, 
+E.SalaryBranchName1,
+E.SalaryMICRNo1,
+E.SalaryIFSCCode1,
+E.PFMemberIDNo, 
+E.UANNumber, 
+E.ESICNo, 
+E.LWFLINNo,
+E.PassportType, 
+E.PassportNo,
+E.IssuesDate, 
+E.RenewalDate,
+E.DateOfExpiry, 
+E.Citizenship, 
+E.DateOfJoining, 
+E.ConfirmDate, 
+E.PFStartDate, 
+E.DateOfRetirement, 
+E.DateOfExit, 
+E.A1, 
+E.A2, 
+E.A3, 
+E.DOR, 
+E.DOC, 
+E.EmployeeCodeInDevice, 
+E.EmployeeRFIDNumber,
+E.Status, 
+E.RecordStatus,
+E.EmployeeDeviceGroup,
+E.OpeningLeave,
+E.CurrentLeave,
+E.TotalApplicableLeave,
+E.EnjoyLeave,
+E.TotalLeave,
+E.BalanceLeave,
+AM.AreaName</value>
+  </data>
+  <data name="Employees_Where" xml:space="preserve">
+    <value>E.CancelTag=0 and 
+CM.CancelTag=0 and 
+ETM.CancelTag=0 and
+ DM.CancelTag=0 and
+ DESM.CancelTag=0 and
+CT.CancelTag=0 and
+ LM.CancelTag=0 </value>
+  </data>
+  <data name="Employee_Table" xml:space="preserve">
+    <value>Employees E inner join contractormaster CM on CM.ContractorId=E.ContractorId inner join
+	employementtypemaster ETM on ETM.EmployementTypeId=E.EmployementTypeId inner join
+	departmentmaster DM on DM.DepartmentId=E.DepartmentId inner join
+	designationmaster DESM on DESM.DesignationId=E.DesignationId inner join
+	categories CT on CT.CategoryId=E.CategoryId inner join
+	locationmaster LM on LM.LocationId=E.LocationId inner join
+	areamaster AM on AM.AreaId=E.AreaId</value>
+  </data>
+  <data name="LBL_HEADER_SHIFTGROUPMASTER" xml:space="preserve">
+    <value>Shift Group Master</value>
+  </data>
+  <data name="attendancemonthlydata_Where" xml:space="preserve">
+    <value> AMD.CancelTag=0 and E.CancelTag=0 and L.CancelTag=0 and D.CancelTag=0</value>
+  </data>
+  <data name="COMPANYNAME1" xml:space="preserve">
+    <value>MALAS FOOD PRODUCTS PRIVATE LIMITED</value>
+  </data>
+  <data name="ClientLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="REPORT_Daily_Attendance_Report_Detailed_Report" xml:space="preserve">
+    <value>Daily Attendance Report (Detailed Report)</value>
+  </data>
+  <data name="REPORT_Daily_Attendance_Report_Detailed_Summary_Report" xml:space="preserve">
+    <value>Daily Attendance Report (Detailed Summary Report)</value>
+  </data>
+  <data name="REPORT_Department_Summary_Report" xml:space="preserve">
+    <value>Department Summary Report</value>
+  </data>
+  <data name="REPORT_Yearly_Summary_Report" xml:space="preserve">
+    <value>Yearly Summary Report</value>
+  </data>
+  <data name="LBL_HEADER_HOLIDAYMASTER" xml:space="preserve">
+    <value>Holidays</value>
+  </data>
+  <data name="LBL_HEADER_MANPOWER_REQUISITION_FORM" xml:space="preserve">
+    <value>Manpower Requisition Form</value>
+  </data>
+  <data name="MalasBackgroud" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\contact-bg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LBL_HEADER_LOCATIONWISEDEPARTMENT" xml:space="preserve">
+    <value>Location wise Department</value>
+  </data>
+  <data name="USER_TYPE_MANAGER" xml:space="preserve">
+    <value>MANAGER</value>
+  </data>
+  <data name="Department_HR" xml:space="preserve">
+    <value>HR</value>
+  </data>
+  <data name="SearchBy_DepartmentId" xml:space="preserve">
+    <value>DepartmentId</value>
+  </data>
+  <data name="SearchBy_Designation" xml:space="preserve">
+    <value>Designation</value>
+  </data>
+  <data name="SearchBy_DesignationId" xml:space="preserve">
+    <value>DesignationId</value>
+  </data>
+  <data name="SearchBy_EmployeeId" xml:space="preserve">
+    <value>EmployeeId</value>
+  </data>
+  <data name="SearchBy_LocationId" xml:space="preserve">
+    <value>LocationId</value>
+  </data>
+  <data name="SearchyBy_Department" xml:space="preserve">
+    <value>Department</value>
+  </data>
+  <data name="LBL_HEADER_LOCATIONANDDEPARTMENTWISEUSERS" xml:space="preserve">
+    <value>Location and Department wise Users</value>
+  </data>
+  <data name="LS_ManagerApproved" xml:space="preserve">
+    <value>Manager Approved</value>
+  </data>
+  <data name="LS_HRApproved" xml:space="preserve">
+    <value>HR Approved</value>
+  </data>
+  <data name="LS_Pending" xml:space="preserve">
+    <value>Pending</value>
+  </data>
+  <data name="LS_Remarks" xml:space="preserve">
+    <value>Remarks</value>
+  </data>
+  <data name="REPORT_LEAVEREPORT" xml:space="preserve">
+    <value>Leave Report</value>
+  </data>
+  <data name="LeaveApplication_Column" xml:space="preserve">
+    <value>LA.LeaveApplicationId,
+LA.EntryDate,
+LA.EmployeeId,
+LM.LocationName,
+DM.Department, 
+E.EmployeeId,
+E.EmployeeCode,
+E.EmployeeName,
+DES.Designation,
+LA.FromDate,
+LA.ToDate,
+LA.TotalDays,
+LT.LeaveTypeFName,
+LA.LeaveReason,
+LA.LeaveStatus,
+E.OpeningLeave,
+E.CurrentLeave,
+E.TotalApplicableLeave,
+E.EnjoyLeave,
+E.TotalLeave,
+E.BalanceLeave,
+LA.LeaveTypeId,
+LA.IsRevertLeave</value>
+  </data>
+  <data name="LeaveApplication_Table" xml:space="preserve">
+    <value>LeaveApplication LA inner join 
+leavetypes LT on LT.LeaveTypeId=LA.LeaveTypeId inner join
+Employees E on E.EmployeeId=LA.EmployeeId inner join 
+DepartmentMaster DM on DM.DepartmentId=E.DepartmentId inner join
+DesignationMaster DES on DES.DesignationId=E.DesignationId inner join
+LocationMaster LM on LM.LocationId=E.LocationId</value>
+  </data>
+  <data name="LeaveApplication_Where" xml:space="preserve">
+    <value>
+LA.CancelTag=0 and
+LT.CancelTag=0 and
+E.CancelTag=0 and
+DM.CancelTag=0 and
+DES.CancelTag=0 and
+LM.CancelTag=0 </value>
+  </data>
+  <data name="PunchRecord_Columns" xml:space="preserve">
+    <value>ARM.AttendanceDate, 
+ARM.LocationId,
+L.LocationName,
+ARM.DepartmentId,
+D.Department,
+AMD.EmployeeId, 
+E.EmployeeName,
+E.EmployeeCode,
+AMD.ShiftId, 
+S.ShiftSName,e.EmployeeCode,
+e.EmployeeName,
+AMD.OutTime,
+al.PunchRecords,
+AMD.Status</value>
+  </data>
+  <data name="PunchRecord_Table" xml:space="preserve">
+    <value>AttendanceRecord AMD inner join 
+attendancelogs al on al.Id=AMD.AttendanceId inner join
+attendancerecordmaster ARM on AMD.AttendanceRecordMasterId=ARM.AttendanceRecordMasterId inner join
+Employees E on E.EmployeeId=AMD.EmployeeId inner join
+shifts S on S.ShiftId=AMD.ShiftId inner join 
+LocationMaster L on L.LocationId=ARM.LocationId inner join 
+DepartmentMaster D on D.DepartmentId=ARM.DepartmentId</value>
+  </data>
+  <data name="PunchRecord_Where" xml:space="preserve">
+    <value>AMD.CancelTag=0 and E.CancelTag=0 and L.CancelTag=0 and D.CancelTag=0 and al.CancelTag=0</value>
+  </data>
+  <data name="REPORT_PUNCHMONITOR" xml:space="preserve">
+    <value>Punch Monitor Report</value>
+  </data>
+  <data name="Database_ACCESS" xml:space="preserve">
+    <value>ACCESS</value>
+  </data>
+  <data name="Database_MSSQL" xml:space="preserve">
+    <value>MSSQL</value>
+  </data>
+  <data name="Database_MYSQL" xml:space="preserve">
+    <value>MYSQL</value>
+  </data>
+  <data name="DataType_AttendanceLog" xml:space="preserve">
+    <value>Attendance Log</value>
+  </data>
+  <data name="DataType_EmployeeMaster" xml:space="preserve">
+    <value>Employee Master</value>
+  </data>
+  <data name="DATEFORMATDDMMMYYYY" xml:space="preserve">
+    <value>dd/MMM/yyyy</value>
+  </data>
+  <data name="LS_Completed" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="LS_InchargeApproved" xml:space="preserve">
+    <value>Incharge Approved</value>
+  </data>
+  <data name="TimeFormat_HHMM" xml:space="preserve">
+    <value>HH:mm</value>
+  </data>
+  <data name="LS_Completed_Color" xml:space="preserve">
+    <value>Lime</value>
+  </data>
+  <data name="LS_Error_Color" xml:space="preserve">
+    <value>Red</value>
+  </data>
+  <data name="LS_HRApproved_Color" xml:space="preserve">
+    <value>Aqua</value>
+  </data>
+  <data name="LS_InchargeApproved_Color" xml:space="preserve">
+    <value>HotPink</value>
+  </data>
+  <data name="LS_Manager_Color" xml:space="preserve">
+    <value>NavajoWhite</value>
+  </data>
+  <data name="LS_Pending_Color" xml:space="preserve">
+    <value>Yellow</value>
+  </data>
+  <data name="LS_Reject" xml:space="preserve">
+    <value>Reject</value>
+  </data>
+  <data name="LS_Reject_Color" xml:space="preserve">
+    <value>DarkOrchid</value>
+  </data>
+  <data name="LS_Remarks_Color" xml:space="preserve">
+    <value>Khaki</value>
+  </data>
+  <data name="REPORT_Department_Wise_Designation_Wise_Count" xml:space="preserve">
+    <value>Department and Designation Wise Attendance Present Report</value>
+  </data>
+  <data name="REPORT_TESTREPORT" xml:space="preserve">
+    <value>TestReport</value>
+  </data>
+  <data name="REPORT_Monthly_Attendance_Basic_Report" xml:space="preserve">
+    <value>Monthly Attendance Basic Report</value>
+  </data>
+  <data name="EmployeeESSL_Access" xml:space="preserve">
+    <value>((Employees E 
+inner join Departments D on D.DepartmentId=E.DepartmentId) 
+inner join Categories CT on CT.CategoryId=E.CategoryId) 
+where E.RecordStatus=1 and E.Status='Working'</value>
+  </data>
+  <data name="EmployeeESSL_Column" xml:space="preserve">
+    <value>Select E.EmployeeId,
+E.EmployeeName,
+E.EmployeeCode,
+E.StringCode,
+E.NumericCode,
+E.Gender,
+E.CompanyId,
+E.DepartmentId,
+D.DepartmentFName,
+E.Designation,
+E.CategoryId,
+CT.CategoryFName,
+E.DOJ,
+E.DOR,
+E.DOC,
+E.EmployeeCodeInDevice,
+E.EmployeeRFIDNumber,
+E.EmployementType,
+E.Status,
+E.EmployeeDevicePassword,
+E.EmployeeDeviceGroup,
+E.FatherName,
+E.MotherName,
+E.ResidentialAddress,
+E.PermanentAddress,
+E.ContactNo,
+E.Email,
+E.DOB,
+E.PlaceOfBirth,
+E.Nomenee1,
+E.Nomenee2,
+E.Remarks,
+E.RecordStatus,
+E.Location,
+E.BLOODGROUP,
+E.WorkPlace,
+E.ExtensionNo,
+E.LoginName,
+E.LoginPassword,
+E.Team,
+E.IsRecieveNotification,
+E.HolidayGroup,
+E.ShiftGroupId,
+E.ShiftRosterId,
+E.LastModifiedBy,
+E.AadhaarNumber,
+E.EmployeePhoto,
+E.MasterDeviceId,
+E.BIOPhoto1,
+E.BIOPhotoPic,
+E.DeviceExpiryRule,
+E.DeviceExpiryStartDate,
+E.DeviceExpiryEndDate,
+E.DeviceId,
+E.EnrolledDate,
+E.MigrateToOtherCryptography,
+E.GeofenceId FROM</value>
+  </data>
+  <data name="EmployeeESSL_SQL" xml:space="preserve">
+    <value>Employees E inner join Departments D on D.DepartmentId=E.DepartmentId 
+inner join Categories CT on CT.CategoryId=E.CategoryId 
+inner join ShiftGroups SG on SG.ShiftGroupId=E.ShiftGroupId 
+where E.RecordStatus=1 and E.Status='Working'</value>
+  </data>
+  <data name="LBL_HEADER_JOBPROFILE" xml:space="preserve">
+    <value>Job Profile Master</value>
+  </data>
+  <data name="AttendanceRecordMaster_Column" xml:space="preserve">
+    <value> arm.AttendanceRecordMasterId,
+arm.AttendanceHistoryId,
+arm.EntryDate, 
+arm.AttendanceDate as 'Attendance Date', 
+arm.LocationId,
+lm.LocationName as 'Location Name',
+arm.DepartmentId,
+dm.Department,
+arm.HRId,
+e.EmployeeName as 'HR Name',
+arm.InchargeId,
+e1.EmployeeName as 'Incharge Name',
+arm.ApprovalStatusId,
+asm.AttendanceStatus as 'Approval Status',
+arm.CompleteFlag</value>
+  </data>
+  <data name="AttendanceRecordMaster_OrderBy" xml:space="preserve">
+    <value> order by arm.AttendanceDate desc </value>
+  </data>
+  <data name="AttendanceRecordMaster_Tables" xml:space="preserve">
+    <value> attendancerecordmaster arm inner join locationmaster lm on lm.LocationId=arm.LocationId inner join	departmentmaster dm on dm.DepartmentId=arm.DepartmentId inner join employees e on e.EmployeeId=arm.HRId inner join employees e1 on e1.EmployeeId=arm.InchargeId inner join
+  attendancestatusmaster asm on asm.AttendanceStatusId=arm.ApprovalStatusId</value>
+  </data>
+  <data name="AttendanceRecordMaster_WhereClause" xml:space="preserve">
+    <value>  where arm.CancelTag=0 and
+				lm.CancelTag=0 and
+				dm.CancelTag=0 and
+				e.CancelTag=0</value>
+  </data>
+  <data name="LBL_HEADER_EDITATTENDANCE" xml:space="preserve">
+    <value>Edit Employee Attendance</value>
+  </data>
+  <data name="ProjectBy" xml:space="preserve">
+    <value>M</value>
+    <comment>M</comment>
+  </data>
+  <data name="LBL_HEADER_COMMANMASTER" xml:space="preserve">
+    <value>Comman Master</value>
+  </data>
+  <data name="LBL_HEADER_MEMOINFORMATION" xml:space="preserve">
+    <value>Memo Information</value>
+  </data>
+  <data name="LBL_HEADER_EMPLOYEELIST" xml:space="preserve">
+    <value>Employee List</value>
+  </data>
+  <data name="LBL_HEADER_MEMOMASTER" xml:space="preserve">
+    <value>Memo Template Master</value>
+  </data>
+  <data name="USER_TYPE_CLEANER" xml:space="preserve">
+    <value>CLEANER</value>
+  </data>
+  <data name="LBL_HEADER_OUTDOORENTRIES" xml:space="preserve">
+    <value>Outdoor Entries</value>
+  </data>
+  <data name="HOURS_FORMAT" xml:space="preserve">
+    <value>hh\:mm</value>
+  </data>
+  <data name="LBL_HEADER_USERSRIGHTS" xml:space="preserve">
+    <value>User Rights</value>
+  </data>
+  <data name="USER_TYPE_ADMINISTRATOR" xml:space="preserve">
+    <value>ADMINISTRATOR</value>
+  </data>
+  <data name="USER_TYPE_HROFFICER" xml:space="preserve">
+    <value>HR OFFICER</value>
+  </data>
+  <data name="USER_TYPE_SENIOROFFICER" xml:space="preserve">
+    <value>SENIOR OFFICER</value>
+  </data>
+  <data name="USER_TYPE_SUPERVISOR" xml:space="preserve">
+    <value>SUPERVISOR</value>
+  </data>
+  <data name="USER_TYPE_TRAINEE" xml:space="preserve">
+    <value>TRAINEE</value>
+  </data>
+  <data name="USER_TYPE_WORKER" xml:space="preserve">
+    <value>WORKER</value>
+  </data>
+  <data name="LBL_HEADER_USERATTENDANCE" xml:space="preserve">
+    <value>User Attendance</value>
+  </data>
+  <data name="LBL_HEADER_USERLEAVEREPORT" xml:space="preserve">
+    <value>User Leave Report</value>
+  </data>
+  <data name="LBL_HEADER_EXCELUPLOADUTILITY" xml:space="preserve">
+    <value>ExcelUploadUtility</value>
+  </data>
+  <data name="LBL_HEADER_MASTER" xml:space="preserve">
+    <value>Master</value>
+  </data>
+  <data name="LBL_HEADER_DOCUMENTMASTER" xml:space="preserve">
+    <value>Document Master</value>
+  </data>
+  <data name="BTN_BROWSE" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="BTN_DOWNLOAD" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="LBL_HEADER_OVERTIMEAPPROVAL" xml:space="preserve">
+    <value>Over Time Approval</value>
+  </data>
+  <data name="LBL_HEADER_COMPOFFAPPLICATION" xml:space="preserve">
+    <value>Comp off Application</value>
+  </data>
+  <data name="LBL_HEADER_SHIFTROTATION" xml:space="preserve">
+    <value>Shift Rotation</value>
+  </data>
+  <data name="ABSENT" xml:space="preserve">
+    <value>ABSENT</value>
+  </data>
+  <data name="PERCENTAGE" xml:space="preserve">
+    <value>PERCENTAGE</value>
+  </data>
+  <data name="PRESENTMANPOWER" xml:space="preserve">
+    <value>PRESENT MANPOWER</value>
+  </data>
+  <data name="TOTAL" xml:space="preserve">
+    <value>TOTAL</value>
+  </data>
+  <data name="USER_TYPE_CONTRACTWORKER" xml:space="preserve">
+    <value>CONTRACT WORKER</value>
+  </data>
+  <data name="LBL_HEADER_COMPOFFLIST" xml:space="preserve">
+    <value>Comp Off Application List</value>
+  </data>
+  <data name="Manpower" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Manpower.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CompOffQuery" xml:space="preserve">
+    <value>Select distinct 
+COA.CompOffApplicationId,
+COA.EntryDate,
+COA.EmployeeId,
+LM.LocationName,
+DM.Department,
+E.EmployeeName,
+DES.Designation,
+COA.LeaveTypeId,
+LT.LeaveTypeFName, 
+COA.CompOffDate,
+COA.CompOffDay, 
+COA.HolidayType, 
+COA.Festival, 
+COA.CompOffReason,  
+COA.WorkRemarks, 
+COA.CompStatus,
+COA.CompOffDueDate,
+COA.CompOffUsedFlag,
+COA.CompUsedStatus,
+COA.UsedCompOffDate,
+COA.UsedCompOffDay
+from 
+	compoffapplication COA inner join 
+	leavetypes LT on LT.LeaveTypeId=COA.LeaveTypeId inner join
+	Employees E on E.EmployeeId=COA.EmployeeId inner join 
+	DesignationMaster DES on DES.DesignationId=E.DesignationId inner join
+	LocationMaster LM on LM.LocationId=E.LocationId inner join
+	DepartmentMaster DM on DM.DepartmentId=E.DepartmentId inner join 
+	locationwisedepartmentusers LWDU on LWDU.LocationId=LM.LocationId and LWDU.DepartmentId=DM.DepartmentId
+where 
+	COA.CancelTag=0 and
+	LT.CancelTag=0 and
+	E.CancelTag=0 and
+	DM.CancelTag=0 and
+	DES.CancelTag=0 and
+	LM.CancelTag=0 and 
+	LWDU.CancelTag=0</value>
+  </data>
+  <data name="CompOffQueryReport" xml:space="preserve">
+    <value>Select 
+COA.CompOffApplicationId,
+COA.EntryDate,
+COA.EmployeeId,
+LM.LocationName,
+DM.Department,
+E.EmployeeName,
+DES.Designation,
+COA.LeaveTypeId,
+L.LeaveTypeFName, 
+COA.CompOffDate,
+COA.CompOffDay, 
+COA.HolidayType, 
+COA.Festival, 
+COA.CompOffReason,  
+COA.WorkRemarks, 
+COA.CompStatus,
+COA.CompOffDueDate,
+COA.CompOffUsedFlag,
+COA.CompUsedStatus  
+from 
+compoffapplication COA inner join 
+leavetypes L on L.LeaveTypeId=COA.LeaveTypeId inner join 
+Employees E on E.EmployeeId=COA.EmployeeId inner join 
+DepartmentMaster DM on DM.DepartmentId=E.DepartmentId inner join 
+DesignationMaster DES on DES.DesignationId=E.DesignationId inner join 
+LocationMaster LM on LM.LocationId=E.LocationId inner join 
+locationwisedepartmentusers LWDU on LM.LocationId=LWDU.LocationId and DM.DepartmentId=LWDU.DepartmentId 
+
+where 
+L.CancelTag=0 and 
+COA.CancelTag=0 and 
+E.CancelTag=0 and 
+DM.CancelTag=0 and 
+DES.CancelTag=0 and 
+LM.CancelTag=0 and 
+LWDU.CancelTag=0</value>
+  </data>
+  <data name="LBL_HEADER_USERCOMPOFFREPORT" xml:space="preserve">
+    <value>User Comp Off / Comp Off Utilization Report</value>
+  </data>
+  <data name="REPORT_COMPOFF" xml:space="preserve">
+    <value>Comp Off / Comp Off Utilization Report</value>
+  </data>
+  <data name="LBL_ASSET_MASTER" xml:space="preserve">
+    <value>Asset Master</value>
+  </data>
+  <data name="LBL_HEADER_ASSETCOMMANMASTER" xml:space="preserve">
+    <value>Asset Comman Master</value>
+  </data>
+  <data name="TN_AssetType" xml:space="preserve">
+    <value>Asset Type</value>
+  </data>
+  <data name="TN_BusinessUnit" xml:space="preserve">
+    <value>Business Unit</value>
+  </data>
+  <data name="TN_Department" xml:space="preserve">
+    <value>Department</value>
+  </data>
+  <data name="TN_Designation" xml:space="preserve">
+    <value>Designation</value>
+  </data>
+  <data name="TN_HDDSSDSize" xml:space="preserve">
+    <value>HDDSSDSize</value>
+  </data>
+  <data name="TN_HDDSSDType" xml:space="preserve">
+    <value>HDDSSDType</value>
+  </data>
+  <data name="TN_Make" xml:space="preserve">
+    <value>Make</value>
+  </data>
+  <data name="TN_Model" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="TN_OfficeVersion" xml:space="preserve">
+    <value>Office Version</value>
+  </data>
+  <data name="TN_OSBit" xml:space="preserve">
+    <value>OS Bit</value>
+  </data>
+  <data name="TN_OSName" xml:space="preserve">
+    <value>OS Name</value>
+  </data>
+  <data name="TN_Processor" xml:space="preserve">
+    <value>Processor</value>
+  </data>
+  <data name="TN_RAM" xml:space="preserve">
+    <value>RAM</value>
+  </data>
+  <data name="TN_Screen" xml:space="preserve">
+    <value>Screen</value>
+  </data>
+  <data name="TN_Software" xml:space="preserve">
+    <value>Software</value>
+  </data>
+  <data name="TN_Upgrade" xml:space="preserve">
+    <value>Upgrade</value>
+  </data>
+  <data name="TN_Vendor" xml:space="preserve">
+    <value>Vendor</value>
+  </data>
+  <data name="LBL_HEADER_ASSETREPORT" xml:space="preserve">
+    <value>Asset Report</value>
+  </data>
+  <data name="LBL_HEADER_RAISETICKET" xml:space="preserve">
+    <value>Raise Ticket</value>
+  </data>
+  <data name="BTN_TICKETS" xml:space="preserve">
+    <value>TICKETS</value>
+  </data>
+  <data name="LBL_HEADER_TICKETLIST" xml:space="preserve">
+    <value>Ticket List</value>
+  </data>
+  <data name="Refresh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Refresh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A_Processor" xml:space="preserve">
+    <value>Processor</value>
+  </data>
+  <data name="LBL_HEADER_CLIENTCONFIGURATIONS" xml:space="preserve">
+    <value>Client's Configuration</value>
+  </data>
+  <data name="LBL_HEADER_LOCATIONDEPARTMENTWISECOMPOFFEREPORT" xml:space="preserve">
+    <value>Location and Department Wise Comp Off Report</value>
+  </data>
+  <data name="LBL_HEADER_LOCATIONDEPARTMENTWISELEAVEREPORT" xml:space="preserve">
+    <value>Location and Department Wise Leave Report</value>
+  </data>
+  <data name="LBL_HEADER_LOCATIONDEPARTMENTWISEATTENDANCEREPORT" xml:space="preserve">
+    <value>Location and Department Wise Attendance Report</value>
+  </data>
+  <data name="LBL_HEADER_WORKINGHOURSREPORT" xml:space="preserve">
+    <value>Location and Department Wise Working Hours Report</value>
+  </data>
+  <data name="BTN_SEND" xml:space="preserve">
+    <value>&amp;Send</value>
+  </data>
+  <data name="A_Manufacturer" xml:space="preserve">
+    <value>Manufacturer</value>
+  </data>
+  <data name="A_Caption" xml:space="preserve">
+    <value>Caption</value>
+  </data>
+  <data name="A_InstallDate" xml:space="preserve">
+    <value>InstallDate</value>
+  </data>
+  <data name="A_InterfaceType" xml:space="preserve">
+    <value>InterfaceType</value>
+  </data>
+  <data name="A_SerialNumber" xml:space="preserve">
+    <value>SerialNumber</value>
+  </data>
+  <data name="A_TotalPhysicalMemory" xml:space="preserve">
+    <value>TotalPhysicalMemory</value>
+  </data>
+  <data name="A_UUID" xml:space="preserve">
+    <value>UUID</value>
+  </data>
+  <data name="A_Win32_BaseBoard" xml:space="preserve">
+    <value>Win32_BaseBoard</value>
+  </data>
+  <data name="A_Win32_BIOS" xml:space="preserve">
+    <value>Win32_BIOS</value>
+  </data>
+  <data name="A_Win32_ComputerSystem" xml:space="preserve">
+    <value>Win32_ComputerSystem</value>
+  </data>
+  <data name="A_Win32_ComputerSystemProduct" xml:space="preserve">
+    <value>Win32_ComputerSystemProduct</value>
+  </data>
+  <data name="A_Win32_DiskDrive" xml:space="preserve">
+    <value>Win32_DiskDrive</value>
+  </data>
+  <data name="A_Win32_OperatingSystem" xml:space="preserve">
+    <value>Win32_OperatingSystem</value>
+  </data>
+  <data name="A_MediaType" xml:space="preserve">
+    <value>MediaType</value>
+  </data>
+  <data name="BTN_VIEWDATA" xml:space="preserve">
+    <value>&amp;View Data</value>
+  </data>
+  <data name="LEAVE_LIST_QUERY" xml:space="preserve">
+    <value>Select distinct 
+	LA.LeaveApplicationId, 
+	LA.EntryDate as 'Date', 
+	LA.EmployeeId,
+	LM.LocationName, 
+	DM.Department, 
+	E.EmployeeName as 'Employee Name',
+	DES.Designation,
+	LA.FromDate as 'From Date',
+	LA.ToDate as 'To Date',
+	LA.TotalDays as 'Total Days',
+	LT.LeaveTypeFName as 'Leave Type',
+	LA.LeaveReason as 'Leave Reason',
+	LA.LeaveStatus as 'Leave Status',
+	E.TotalLeave,
+	LA.LeaveTypeId,
+	LA.IsRevertLeave 
+from
+	LeaveApplication LA inner join 
+	leavetypes LT on LT.LeaveTypeId=LA.LeaveTypeId inner join
+	Employees E on E.EmployeeId=LA.EmployeeId inner join 
+	DesignationMaster DES on DES.DesignationId=E.DesignationId inner join
+	LocationMaster LM on LM.LocationId=E.LocationId inner join
+	DepartmentMaster DM on DM.DepartmentId=E.DepartmentId inner join 
+	locationwisedepartmentusers LWDU on LWDU.LocationId=LM.LocationId and LWDU.DepartmentId=DM.DepartmentId
+where 
+	LA.CancelTag=0 and
+	LT.CancelTag=0 and
+	E.CancelTag=0 and
+	DM.CancelTag=0 and
+	DES.CancelTag=0 and
+	LM.CancelTag=0 and 
+	LWDU.CancelTag=0</value>
+  </data>
+  <data name="Add_User_M" xml:space="preserve">
+    <value>Add User</value>
+  </data>
+  <data name="Asset_Master_M" xml:space="preserve">
+    <value>Asset Master</value>
+  </data>
+  <data name="Asset_Report_M" xml:space="preserve">
+    <value>Asset Report</value>
+  </data>
+  <data name="Attendance_M" xml:space="preserve">
+    <value>Attendance</value>
+  </data>
+  <data name="Change_Password_M" xml:space="preserve">
+    <value>Change Password</value>
+  </data>
+  <data name="Check_ESSL_Attendance_M" xml:space="preserve">
+    <value>Check ESSL Attendance</value>
+  </data>
+  <data name="Client_Machine_M" xml:space="preserve">
+    <value>Client Machine</value>
+  </data>
+  <data name="Comp_Off_Application_M" xml:space="preserve">
+    <value>Comp Off Application</value>
+  </data>
+  <data name="Comp_Off_Report_M" xml:space="preserve">
+    <value>Comp Off Report</value>
+  </data>
+  <data name="Daily_And_Monthly_Attendance_Report_M" xml:space="preserve">
+    <value>Daily And Monthly Attendance Report</value>
+  </data>
+  <data name="Data_Backup_M" xml:space="preserve">
+    <value>Data Backup</value>
+  </data>
+  <data name="Documents_M" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="Download_Template_M" xml:space="preserve">
+    <value>Download Template</value>
+  </data>
+  <data name="Duration_Wise_Report_M" xml:space="preserve">
+    <value>Duration Wise Report</value>
+  </data>
+  <data name="ESSL_Data_M" xml:space="preserve">
+    <value>ESSL Data</value>
+  </data>
+  <data name="Export_M" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="Import_M" xml:space="preserve">
+    <value>Import</value>
+  </data>
+  <data name="Individual_User_Attendance_Report_M" xml:space="preserve">
+    <value>Individual User Attendance Report</value>
+  </data>
+  <data name="Individual_User_Comp_Off_Report_M" xml:space="preserve">
+    <value>Individual User Comp Off Report</value>
+  </data>
+  <data name="Individual_User_Leave_Report_M" xml:space="preserve">
+    <value>Individual User Leave Report</value>
+  </data>
+  <data name="Leave_Application_M" xml:space="preserve">
+    <value>Leave Application</value>
+  </data>
+  <data name="Leave_Report_M" xml:space="preserve">
+    <value>Leave Report</value>
+  </data>
+  <data name="Letters_M" xml:space="preserve">
+    <value>Letters</value>
+  </data>
+  <data name="Location_And_Department_Wise_Attendance_Report_M" xml:space="preserve">
+    <value>Location And Department Wise Attendance Report</value>
+  </data>
+  <data name="Location_And_Department_Wise_Comp_Off_Report_M" xml:space="preserve">
+    <value>Location And Department Wise Comp Off Report</value>
+  </data>
+  <data name="Location_And_Department_Wise_Leave_Report_M" xml:space="preserve">
+    <value>Location And Department Wise Leave Report</value>
+  </data>
+  <data name="Location_And_Department_Wise_Users_M" xml:space="preserve">
+    <value>Location And Department Wise Users</value>
+  </data>
+  <data name="Location_Wise_Department_M" xml:space="preserve">
+    <value>Location Wise Department</value>
+  </data>
+  <data name="Manpower_Dashboard_M" xml:space="preserve">
+    <value>Manpower Dashboard</value>
+  </data>
+  <data name="Manpower_Requisition_M" xml:space="preserve">
+    <value>Manpower Requisition</value>
+  </data>
+  <data name="Master_M" xml:space="preserve">
+    <value>Master</value>
+  </data>
+  <data name="Memo_M" xml:space="preserve">
+    <value>Memo</value>
+  </data>
+  <data name="OT_Approval_M" xml:space="preserve">
+    <value>OT Approval</value>
+  </data>
+  <data name="Outdoor_Punch_M" xml:space="preserve">
+    <value>Outdoor Punch</value>
+  </data>
+  <data name="Raise_Ticket_M" xml:space="preserve">
+    <value>Raise Ticket</value>
+  </data>
+  <data name="User_Rights_M" xml:space="preserve">
+    <value>User Rights</value>
+  </data>
+  <data name="View_Comp_Off_Application_M" xml:space="preserve">
+    <value>View Comp Off Application</value>
+  </data>
+  <data name="View_Leave_Application_M" xml:space="preserve">
+    <value>View Leave Application</value>
+  </data>
+  <data name="View_Tickets_M" xml:space="preserve">
+    <value>View Tickets</value>
+  </data>
+  <data name="Working_Hours_Report_M" xml:space="preserve">
+    <value>Working Hours Report</value>
+  </data>
+  <data name="A_Model" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="A_PCSystemType" xml:space="preserve">
+    <value>PCSystemType</value>
+  </data>
+  <data name="BTN_RECALCULATE" xml:space="preserve">
+    <value>Recalculate</value>
+  </data>
+  <data name="Recalculate_M" xml:space="preserve">
+    <value>Recalculate</value>
+  </data>
+  <data name="LS_Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="REPORT_NAME_ATTENDANCE_SALARY_REPORT" xml:space="preserve">
+    <value>Attendance Salary Report</value>
+  </data>
+  <data name="AttendanceSalaryReport_M" xml:space="preserve">
+    <value>Attendance Salary Report</value>
+  </data>
+  <data name="LBL_HEADER_EMPLOYEEPROFILE" xml:space="preserve">
+    <value>Employee Profile</value>
+  </data>
+  <data name="EmployeeProfile_M" xml:space="preserve">
+    <value>Employee Profile</value>
+  </data>
+  <data name="LS_Due" xml:space="preserve">
+    <value>Due</value>
+  </data>
+  <data name="LS_Due_Color" xml:space="preserve">
+    <value>Hot Pink</value>
+  </data>
+  <data name="LS_Expired" xml:space="preserve">
+    <value>Expired</value>
+  </data>
+  <data name="LS_Expired_Color" xml:space="preserve">
+    <value>Red</value>
+  </data>
+  <data name="REPORT_BIRTHDAYLIST" xml:space="preserve">
+    <value>Birthday List by Date and Month</value>
+  </data>
+  <data name="Birthday_List" xml:space="preserve">
+    <value>Birthday List</value>
+  </data>
+  <data name="Punch_Report" xml:space="preserve">
+    <value>Punch Report</value>
+  </data>
+  <data name="LBL_HEADER_SALARYCONFIGURATION" xml:space="preserve">
+    <value>SALARY CONFIGURATION</value>
+  </data>
+</root>

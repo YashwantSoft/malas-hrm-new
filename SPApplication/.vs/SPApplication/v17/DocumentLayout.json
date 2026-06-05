@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|d:\\gitprojects\\malas-hrm-new\\spapplication\\spapplication\\newsoftware\\reports\\employeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|solutionrelative:spapplication\\newsoftware\\reports\\employeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|d:\\gitprojects\\malas-hrm-new\\spapplication\\spapplication\\master\\employeeeditmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|solutionrelative:spapplication\\master\\employeeeditmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|d:\\gitprojects\\malas-hrm-new\\spapplication\\spapplication\\newsoftware\\reports\\employeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|solutionrelative:spapplication\\newsoftware\\reports\\employeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|d:\\gitprojects\\malas-hrm-new\\spapplication\\spapplication\\master\\employeeeditmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|solutionrelative:spapplication\\master\\employeeeditmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|d:\\gitprojects\\malas-hrm-new\\spapplication\\spapplication\\newsoftware\\reports\\attendancereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|solutionrelative:spapplication\\newsoftware\\reports\\attendancereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|d:\\gitprojects\\malas-hrm-new\\spapplication\\spapplication\\newsoftware\\reports\\attendancereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|solutionrelative:spapplication\\newsoftware\\reports\\attendancereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|d:\\gitprojects\\malas-hrm-new\\spapplication\\spapplication\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|solutionrelative:spapplication\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|d:\\gitprojects\\malas-hrm-new\\spapplication\\spapplication\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0707D82-6ACB-4A24-9A18-C0B6869D97C3}|SPApplication\\SPApplication.csproj|solutionrelative:spapplication\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeEditMaster.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\Master\\EmployeeEditMaster.cs",
+              "RelativeDocumentMoniker": "SPApplication\\Master\\EmployeeEditMaster.cs",
+              "ToolTip": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\Master\\EmployeeEditMaster.cs",
+              "RelativeToolTip": "SPApplication\\Master\\EmployeeEditMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:34:35.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeEditMaster.cs [Design]",
+              "DocumentMoniker": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\Master\\EmployeeEditMaster.cs",
+              "RelativeDocumentMoniker": "SPApplication\\Master\\EmployeeEditMaster.cs",
+              "ToolTip": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\Master\\EmployeeEditMaster.cs [Design]",
+              "RelativeToolTip": "SPApplication\\Master\\EmployeeEditMaster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:34:31.565Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceReport.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\NewSoftware\\Reports\\AttendanceReport.cs",
+              "RelativeDocumentMoniker": "SPApplication\\NewSoftware\\Reports\\AttendanceReport.cs",
+              "ToolTip": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\NewSoftware\\Reports\\AttendanceReport.cs",
+              "RelativeToolTip": "SPApplication\\NewSoftware\\Reports\\AttendanceReport.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAawKcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:20:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\Views\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SPApplication\\Views\\Dashboard.cs",
+              "ToolTip": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\Views\\Dashboard.cs",
+              "RelativeToolTip": "SPApplication\\Views\\Dashboard.cs",
+              "ViewState": "AgIAAKoHAAAAAAAAAAAlwLoHAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:26:54.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\Views\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SPApplication\\Views\\Dashboard.cs",
+              "ToolTip": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\Views\\Dashboard.cs [Design]",
+              "RelativeToolTip": "SPApplication\\Views\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:26:44.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeReport.cs",
+              "DocumentMoniker": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\NewSoftware\\Reports\\EmployeeReport.cs",
+              "RelativeDocumentMoniker": "SPApplication\\NewSoftware\\Reports\\EmployeeReport.cs",
+              "ToolTip": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\NewSoftware\\Reports\\EmployeeReport.cs",
+              "RelativeToolTip": "SPApplication\\NewSoftware\\Reports\\EmployeeReport.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAvwGYBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:22:27.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceReport.cs [Design]",
+              "DocumentMoniker": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\NewSoftware\\Reports\\AttendanceReport.cs",
+              "RelativeDocumentMoniker": "SPApplication\\NewSoftware\\Reports\\AttendanceReport.cs",
+              "ToolTip": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\NewSoftware\\Reports\\AttendanceReport.cs [Design]",
+              "RelativeToolTip": "SPApplication\\NewSoftware\\Reports\\AttendanceReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:21:59.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeReport.cs [Design]",
+              "DocumentMoniker": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\NewSoftware\\Reports\\EmployeeReport.cs",
+              "RelativeDocumentMoniker": "SPApplication\\NewSoftware\\Reports\\EmployeeReport.cs",
+              "ToolTip": "D:\\GitProjects\\Malas-HRM-New\\SPApplication\\SPApplication\\NewSoftware\\Reports\\EmployeeReport.cs [Design]",
+              "RelativeToolTip": "SPApplication\\NewSoftware\\Reports\\EmployeeReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:20:59.134Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

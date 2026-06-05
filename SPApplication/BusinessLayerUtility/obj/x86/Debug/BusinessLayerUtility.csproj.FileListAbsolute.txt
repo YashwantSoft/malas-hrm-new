@@ -1,0 +1,52 @@
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+D:\P\Surya Hospital\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\P\Surya Hospital\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\P\Surya Hospital\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\P\Surya Hospital\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\P\Surya Hospital\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+D:\P\Ekdant\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\P\Ekdant\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\P\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\P\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\P\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+D:\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+D:\data\06-01-2018\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\data\06-01-2018\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\data\06-01-2018\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\data\06-01-2018\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\data\06-01-2018\Projects\Ekdant\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+D:\data\06-01-2018\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\data\06-01-2018\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\data\06-01-2018\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\data\06-01-2018\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\data\06-01-2018\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+I:\Projects\31-07-2019\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+I:\Projects\31-07-2019\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+I:\Projects\31-07-2019\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Projects\31-07-2019\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+I:\Projects\31-07-2019\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+D:\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\Projects\Laxmi Clinic\Project\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+D:\STL\Convert 2012\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\STL\Convert 2012\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\STL\Convert 2012\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\STL\Convert 2012\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb
+D:\STL\Convert 2012\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\x86\Debug\Renci.SshNet.dll
+D:\STL\Convert 2012\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+D:\STL\bitbucket\clinicpro\ClinicPro\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.dll
+D:\STL\bitbucket\clinicpro\ClinicPro\SPApplication\BusinessLayerUtility\bin\x86\Debug\BusinessLayerUtility.pdb
+D:\STL\bitbucket\clinicpro\ClinicPro\SPApplication\BusinessLayerUtility\bin\x86\Debug\Renci.SshNet.dll
+D:\STL\bitbucket\clinicpro\ClinicPro\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+D:\STL\bitbucket\clinicpro\ClinicPro\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.dll
+D:\STL\bitbucket\clinicpro\ClinicPro\SPApplication\BusinessLayerUtility\obj\x86\Debug\BusinessLayerUtility.pdb

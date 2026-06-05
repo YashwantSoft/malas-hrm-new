@@ -1,0 +1,758 @@
+D:\MDApps\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\MDApps\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\MDApps\SPApplication\BusinessLayerUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\MDApps\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\MDApps\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\Yashwant\Projects\MDApps\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\Yashwant\Projects\MDApps\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\Yashwant\Projects\MDApps\SPApplication\BusinessLayerUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Yashwant\Projects\MDApps\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\Yashwant\Projects\MDApps\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\Yashwant\Projects\Surya Hospital\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.Entity.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\NuGet.Core.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\Renci.SshNet.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.xml
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.xml
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CopyComplete
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\STL\bitbucket_laxmi_clinic\ClinicPro\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojAssemblyReference.cache
+I:\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+I:\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+I:\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.dll
+I:\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+I:\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+I:\SPApplication\BusinessLayerUtility\bin\Debug\Renci.SshNet.dll
+I:\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.xml
+I:\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+I:\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+I:\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+I:\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+I:\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.dll
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Renci.SshNet.dll
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.Entity.dll
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+E:\Projects\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.Entity.dll
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.dll
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Renci.SshNet.dll
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.xml
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll.config
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\NuGet.Core.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Collections.Immutable.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.pdb
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Collections.Immutable.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CopyComplete
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll.config
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Data.Common.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.Tracing.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Globalization.Extensions.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.IO.Compression.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Net.Http.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Net.Sockets.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Security.SecureString.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Overlapped.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Options.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\NuGet.Core.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Collections.Immutable.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.Helpers.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.Razor.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Razor.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\WebMatrix.Data.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\WebMatrix.WebData.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.pdb
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Options.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Collections.Immutable.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.Helpers.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.Razor.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Razor.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\WebMatrix.Data.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\bin\Debug\WebMatrix.WebData.xml
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CopyComplete
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\VS2012\Yashwant\My Data\Projects\for Laxmi C\Laxmi Clinic\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll.config
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Data.Common.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Globalization.Extensions.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.IO.Compression.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Net.Http.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Net.Sockets.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Security.SecureString.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Overlapped.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\NuGet.Core.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Collections.Immutable.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.Helpers.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.Razor.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\WebMatrix.Data.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\WebMatrix.WebData.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.pdb
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Collections.Immutable.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.Helpers.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.Razor.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\WebMatrix.Data.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\WebMatrix.WebData.xml
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CopyComplete
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll.config
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Options.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Collections.Immutable.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.Helpers.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.Razor.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.WebPages.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Razor.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\WebMatrix.Data.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\WebMatrix.WebData.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Options.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Collections.Immutable.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.Helpers.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.Razor.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.WebPages.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\System.Web.WebPages.Razor.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\WebMatrix.Data.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\bin\Debug\WebMatrix.WebData.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\SPApplication2012\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+F:\Test\Final\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+F:\Test\Final\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+F:\Test\Final\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+F:\Test\Final\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+F:\Test\Final\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+F:\Test\Final\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+F:\Test\Final\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.dll
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.xml
+F:\Test\Final\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.xml
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x64\SqlServerSpatial120.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x86\SqlServerSpatial120.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.xml
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.xml
+E:\BitBucketProjects\Malas Fruit\Changes\2022\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x64\SqlServerSpatial120.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x86\SqlServerSpatial120.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.xml
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x64\SqlServerSpatial120.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\SqlServerTypes\x86\SqlServerSpatial120.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.EntityFramework.xml
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Web.xml
+E:\BitBucketProjects\Malas Fruit\Changes\2022U\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\MalasChanges\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\NewDevelopment2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csprojResolveAssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.Cache
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\New2022\2012\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\New2022\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas Fruit\OT Approval Development\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\BitBucketProjects\Malas HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\Google.Protobuf.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\ZstdNet.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\Ubiety.Dns.Core.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\MySql.Data.xml
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Cryptography.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\ZstdSharp.dll
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Cryptography.xml
+D:\GitProjects\Malas-HRM\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Cryptography.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\ZstdSharp.dll
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Cryptography.xml
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitProjects\Malas-Salary\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\BusinessLayerUtility.pdb
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Cryptography.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\ZstdSharp.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\BouncyCastle.Cryptography.xml
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Buffers.xml
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Memory.xml
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Numerics.Vectors.xml
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.AssemblyReference.cache
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.BusinessResources.resources
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.GenerateResource.cache
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.csproj.CoreCompileInputs.cache
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\obj\Debug\Business.14C7491D.Up2Date
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.dll
+D:\GitProjects\Malas-HRM-New\SPApplication\BusinessLayerUtility\obj\Debug\BusinessLayerUtility.pdb
